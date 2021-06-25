@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Enseñando a enseñar sin perder a nadie en el camino</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Paola Corrales, Elio Campitelli y el equipo de MetaDocencia" />
+    <link href="useR2021_es_files/remark-css-0.0.1/useR.css" rel="stylesheet" />
+    <link href="useR2021_es_files/remark-css-0.0.1/useR-fonts.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Enseñando a enseñar sin perder a nadie en el camino
+## MetaDocencia
+### Paola Corrales, Elio Campitelli y el equipo de MetaDocencia
+
+---
+
+
+# Sobre MetaDocencia
+
+“MetaDocencia es una comunidad inclusiva y colaborativa que busca que mejorar la educación potenciando docentes de países menos favorecidos.”
+
+???
+
+Hace un poco más de un año, cuando el covid era una noción distante y les docentes en Argentina se preparaban para empezar el año lectivo como cualquier otro año, casi de un día para el año se suspendieron las clases presenciales. En esa situación, nos preguntamos qué podíamos hacer para ayudar a otras personas y poner en práctica lo que sabíamos hacer. Unos pocos días después MetaDocencia comenzó a tomar forma.
+MetaDocencia es una comunidad inclusiva y colaborativa que busca mejorar la educación potenciando docentes de países menos favorecidos. La idea era compartir consejos y herramientas prácticas que pudieran aplicarse de manera inmediata.
+Pero al mismo tiempo nos dimos cuenta que era una oportunidad para abrir una discusión más grande: ¿Cómo enseñamos? ¿Cómo podemos aprender a enseñar en comunidad? Y así surgió el nombre: “Meta” “Docencia” porque nos proponemos enseñar a enseñar con la mirada puesta en nuestros estudiantes, al mismo tiempo docentes, aprendiendo de la experiencia de cada une. 
+
+---
+
+# Quienes somos
+
+(foto del equipo)
+
+???
+
+Empezamos siendo unas pocas personas en el equipo, hoy 21 personas hacen posible MetaDocencia junto a un gran equipo asesor formado por especialistas en educación y comunidades. Venimos de distintos lugares, algunes del mundo de R, otres de Python, varios docentes e interesades en educación. Vivimos en diferentes partes de Argentina y de otros países, hablamos Español, algunes Portugués. Nos une la diversidad, las ganas de enseñar y de aprender en comunidad. 
+
+---
+
+# ¿Qué hicimos hasta hoy?
+
+Desarrollamos y adaptamos 4 talleres 
+
+* Introducción al ABC para enseñar online
+* Cómo enseñar a programar
+* Taller de Zoom
+* Taller de {learnr}
+
+???
+
+¿Qué hicimos hasta hoy?
+Desarrollamos y adaptamos 4 talleres 
+Introducción al ABC para enseñar online
+Cómo enseñar a programar
+Taller de Zoom
+Taller de {learnr}
+
+Quienes participan de los cursos no sólo escuchan nuestros consejos sino que los viven en carne propia. Por ejemplo, en cada encuentro discutimos sobre la importancia de dar y recibir buen feedback como una manera de mejorar las clases. Por eso al final de cada taller enseñamos con el ejemplo y les pedimos a cada participante que responda nuestra encuesta anónima con algo que tendríamos que mantener y algo que podríamos mejorar. En el taller de Zoom les invitamos a pasarse al otro lado y tomar las riendas de la reunión para experimentar con la herramienta mientras pensamos cómo podemos sacarle el jugo en nuestras clases. En definitiva, no sólo invitamos a les participantes a escuchar lo que enseñamos, sino también a prestar atención a cómo lo enseñamos y discutir sobre la mejor manera de hacerlo. 
+
+---
+
+# Nuestros participantes
+
+
+
+???
+
+Hasta hoy, 870 estudiantes participaron en nuestros cursos. Enseñamos 54 ediciones de la Introducción al ABC y 13 ediciones de nuestros otros talleres. En total, llegamos a más de 1200 educadores de habla hispana en 30 países distintos. 
+Tuvimos participantes de muchas áreas de educación, aunque en su mayoría vienen de las ciencias exactas. Fue sorprendente encontrarnos con muchas personas dando clase fuera de instituciones educativas, como dando clases de música o yoga!
+
+---
+
+# ¿Por qué MetaDocencia?
+
+
+
+???
+
+¿Por qué MetaDocencia?
+Habiendo tantos recursos abiertos en educación, y comunidades alrededor del mundo, ¿para qué se necesita MetaDocencia?
+Lo primero es que la mayoría de los recursos y comunidades sobre educación online hablan inglés y en Argentina y muchos países de Latinoamérica, el inglés es una gran barrera para el acceso al conocimiento. En Argentina, menos de la mitad de la población tiene un mínimo manejo del inglés y de los que saben, la enorme mayoría saben muy poco. Por lo tanto, está más que claro que aún el mejor recurso, es inaccesible para una gran parte de la población de educadores si está en inglés. 
+Pero aún las traducciones, sean hechas con google translate, deepl o un ser humano no son suficientes. Los recursos originalmente anglos, se basan en suposiciones muy fuertes sobre el acceso a determinados recursos y la familiaridad con tecnologías como zoom, slack o google docs, lo cual no es aplicable a los diversos contextos (por ejemplo, brecha digital, entre otras) que existen en América Latina.
+Además, la idea de “comunidades de práctica” es bastante nueva en nuestra región. No hay una cultura de compartir materiales de educación (a veces es todo lo contrario) y las instituciones no lo incentivan. 
+
+---
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+## Aprendimos de nuestra experiencia y la de otras comunidades 
+
+???
+
+A lo largo de estos meses, aprendimos muchas cosas de la experiencia, del feedback de nuestros participantes, de otras comunidades. Otras, nos acompañan desde el primer día. 
+
+---
+class: chapter-slide
+# La accesibilidad ayuda a todas las personas.
+
+???
+
+Desde el inicio nos propusimos generar materiales que fueran accesibles, empezando con lo que teníamos a mano en ese momento: incluir notas de orador en nuestras presentaciones y texto alternativo en las imágenes. Queríamos que personas con dificultad visual pudieran aprovechar los materiales de la misma manera. Pero también pensamos en quienes no contaban con el tiempo o una buena conexión a internet para hacer el curso de manera sincrónica, quienes se encontraban con la presentación y necesitaban una guía para recorrerla. 
+
+Rápidamente descubrimos que esas notas del orador, escritas con mucho detalle y dedicación, nos servían para que las nuevas personas del equipo se familiarizaran con el curso. 
+
+La accesibilidad ayuda a todas las personas.
+
+---
+
+
+???
+Pero las ganas y buena voluntad no son suficientes. Necesitábamos seguir aprendiendo sobre esto, y así nació el equipo de Accesibilidad de MetaDocencia. 
+
+En Latinoamérica más del 15% de la población experimenta algún tipo de discapacidad, lo que genera situaciones de desigualdad en el acceso al mercado laboral como también a la educación y salud y es más probable que tengan un nivel socioeconómico muy bajo. Y toda esta situación se ve especialmente acentuada por la pandemia. 
+
+Todas estas razones nos hicieron pensar en que las herramientas que ofrecíamos debían aspirar a incluir a la mayor cantidad de personas posibles. 
+
+La accesibilidad es algo universal. Esto implica planear, proyectar, construir, y conservar nuestros cursos de modo que tenga en cuenta las necesidades y los requerimientos de todas las personas, sea cual sea su edad, condición o capacidad. En otras palabras, era necesario diseñar el material pensando en diferentes tipos de estudiantes y así paulatinamente disminuir las barreras de acceso.
+
+---
+
+
+
+???
+
+La accesibilidad debe ser pensada desde el momento de la planificación de la actividad. Una cadena de accesibilidad garantiza la continuidad en el acceso a los espacios que permite conectar lugares y servicios, sin barreras. En nuestro caso, conectar los pasos para sumarse a la comunidad o participar en un curso. Implica la adecuación del entorno donde desarrollamos nuestras actividades y cómo lo hacemos, ya sea en persona o virtual. 
+
+En MetaDocencia nos esforzamos para garantizar la accesibilidad desde el inicio cuando una persona se registra y responde preguntas que nos orientaran para conocerla mejor y brindarle la mejor experiencia posible. 
+
+---
+
+# ¿Qué y cómo preguntamos sobre discapacidad?
+
+???
+
+¿Qué y cómo preguntamos sobre discapacidad?
+
+En nuestro primer formulario de registro ya había preguntas sobre distintos aspectos de accesibilidad. Preguntábamos sobre conocimiento de distintas herramientas como google docs, zoom, slack, sobre la calidad del acceso a internet y disponibilidad de materiales como micrófono, computadora que ante bien, familiaridad con el uso del teclado y luego sobre discapacidades que (visuales, auditivas, aprendizaj, etc…). 
+
+Todas estas preguntas (que eran muchas) las armamos en base a la intuición y a medida que veíamos las respuestas nos dimos cuenta que necesitaban un cambio. Algunas preguntas daban respuestas útiles y accionables. Si sabíamos que alguien nunca había usado google docs, sabíamos que teníamos que hacer más hincapié en enseñar su uso. Pero otras eran más difíciles de interpretar. ¿Qué hacíamos si alguien decía que no tenía una “discapacidad visual”? ¿Teníamos que basarnos sólo en el audio o con usar letra grande y con alto contraste era suficiente? 
+
+---
+
+¿Tienes alguna de las siguientes dificultades para participar de talleres en forma remota? Marca todas las que correspondan.
+
+* Tengo dificultad para ver, aún con anteojos o lentes de contacto
+* Tengo dificultad para oír, aun con audífono
+* Tengo dificultades de movilidad que afectan mi interacción con dispositivos electrónicos como el celular o computadora
+* Tengo dificultad para permanecer delante de una pantalla más de 50 minutos
+* Tengo dificultad para comprender o recordar
+* Tengo dificultad para concentrarme
+* Tengo dificultad para comunicarme
+* No tengo ninguna de estas dificultades
+* Prefiero no decirlo
+* Otra
+
+???
+
+Una de las primeras tareas del equipo de accesibilidad fue la de rediseñar estas preguntas. 
+
+Tomamos como referencia las preguntas diseñadas por el Grupo de Washington sobre Estadísticas de la Discapacidad para obtener información concreta, unificada y probada sobre las personas, docentes de Latino América que les interesa participar en nuestros cursos. 
+
+Las preguntas sobre discapacidad ahora son menos, pero más informativas. 
+
+¿Tienes alguna de las siguientes dificultades para participar de talleres en forma remota? 
+Dificultad para ver, para oír, dificultad para interactuar con dispositivos o permanecer más de 50 minutos delante de una pantalla.
+
+---
+
+Si marcaste que tenés alguna dificultad, ¿cómo podemos facilitar tu participación? Marca todas las que correspondan.
+
++ Con un lector de pantalla
++ Con materiales con alto contraste y letra grande
++ Usando comunicación por voz
++ Hablando claro, pausado, con buena calidad de audio
++ Con subtitulado
++ Usando lengua de señas
++ Usando comunicación por escrito
++ Con pausas frecuentes lejos de la pantalla
++ Prefiero no decirlo
+
+???
+
+Pero además les preguntamos cómo podemos facilitar su participación y ofrecemos diversas soluciones relacionadas con el tipo de dificultad, lo cual nos permite tener una información clara y accionable sobre cómo adaptar nuestra clase si fuera necesario.
+
+Además armamos un sistema mediante el cual si alguien marca alguna de las opciones de accesibilidad, inmediatamente se les envía un mail al equipo de accesibilidad para que revisen el caso. En base a las respuestas y al contacto con la persona en cuestión, en el equipo decide si es necesario hacer algún cambio a nuestros materiales o a nuestro curso. 
+
+Durante 2021, de las 540 personas que completaron nuestro formulario de registro, 87 respondieron a estas preguntas de manera afirmativa. Muchas de esas personas nos pidieron hacer pausas frecuentes lejos de la pantalla, hablar lento y claro o usar materiales con letra grande.
+
+---
+
+## Algunos criterios
+
+* Para nuestras presentaciones
+* Para nuestros cursos
+* Para nuestras redes sociales
+
+???
+
+La buena noticia es que tenemos en cuenta todos estos pedidos desde el momento que pensamos nuestros cursos y hemos ido implementando mejoras en todos los cursos y materiales. Definimos criterios de base que tienen en cuenta las necesidades de una gran parte de las personas que se acercan a MetaDocencia.
+
+Para nuestras presentaciones:
+Letra grande, nunca nadie se quejó de que la letra era demasiado grande.
+Buen contraste entre las letras y el fondo, aun si eso implica cambiar nuestros colores favoritos.
+Evitar animaciones y fuentes de adorno, no importa que se vea lindo si no es accesible. 
+Texto alternativo en las figuras e imágenes que incluimos, para que nadie se pierda ningún detalle.
+
+Para nuestros cursos:
+Pausas frecuentes, ni docentes ni estudiantes puede estar concentrados eternamente frente a la pantalla
+Cada quien participa de la manera que prefiera, algunas personas querrán usar el micrófono, otras escribir en el chat, valoramos cualquier participación. 
+
+Para nuestras redes sociales:
+Acompañamos cada imagen con texto alternativo 
+Usamos lenguaje que incluya a todas las personas. 
+
+Para nosotros, estar preparados para brindarle a les docentes que participan en nuestros cursos la mejor experiencia es muy importante. Hasta ahora pudimos cubrir las necesidades de todas las personas que se registraron. Eso por un lado significa que nuestros esfuerzos valen la pena, pero por el otro, también significa que no estamos llegando a personas con otras necesidades, tal vez porque en el mundo de la enseñanza, las personas con discapacidades no encuentran un espacio accesible. 
+
+---
+
+class: chapter-slide
+# “No asumir, preguntar”
+
+???
+
+Otra de las ideas que nos acompaña desde el principio es: 
+“No asumir, preguntar”. No asumir que nuestros participantes tienen acceso a una buena conexión a internet o que saben usar determinada herramienta.”
+
+---
+
+
+???
+
+Y eso hicimos, incluimos en nuestro formulario de registro preguntas para conocer a nuestros futuros y futuras estudiantes. ¿Qué experiencia tienen usando zoom? Y tal vez a un año y medio de haber comenzado la pandemia esta pregunta puede parecer redundante pero igual que al principio decidimos no asumir y por el contrario nos proponemos conocer a nuestros estudiantes en su contexto y teniendo en cuenta su realidad. 
+
+Por supuesto eso no termina ahí, antes de cada curso, docentes y ayudantes se reúnen para revisar estas respuestas y prepararse para poder brindar la mejor experiencia de aprendizaje a todas las personas. Si alguien respondió que no tiene mucha experiencia usando documentos de google, seguramente quién esté como ayudante estará pendiente para responder a sus consultas. Si alguien se perdió alguna parte del curso por su conexión a internet, a la vuelta le compartiremos el link a la versión grabada para que pueda revisar después si quiere. 
+
+---
+
+class: chapter-slide
+# “Materiales para todas las personas”
+
+???
+
+Todo lo que hacemos tiene licencia abierta y al mismo tiempo, nos nutrimos de otros materiales abiertos. Otra de nuestras ideas centrales es garantizar el acceso a materiales de calidad compartiendo lo que hacemos de manera abierta y fomentando a otras personas para que también lo hagan.
+
+---
+
+???
+
+Creemos que esto es aún más importante cuando los recursos con los que contamos son escasos. ¿Por qué no aprovechar los materiales generados y probados por un colega, dando crédito en el camino? En MetaDocencia buscamos generar esto, produciendo materiales, compartiendo otros y brindando un espacio en nuestra comunidad de slack para que las personas puedan compartir su experiencia al usar un material o una herramienta. 
+
+---
+class: chapter-slide
+# “Aprendemos más y mejor cuando nos sentimos bienvenidos.”
+
+???
+
+Por esta razón nos guiamos por un código de conducta y les pedimos a todas las personas que participan en MetaDocencia que lo respeten. Es una invitación a generar un espacio amigable donde todas las personas se sientan cómodas para participar, hacer preguntas, dar feedback a sus colegas y en definitiva, aprender. 
+
+---
+
+???
+
+En Argentina y Latino América no es común escuchar hablar de un código de conducta y si bien las instituciones educativas tienen sus reglamentos esta idea, para nosotros, vino de la mano de comunidades con R-Ladies. Por eso nos tomamos unos segundos al comienzo de cada taller para explicar de qué se trata, invitar a todas las personas a ayudarnos a generar un ambiente amigable y darles información sobre qué hacer en caso de que eso no ocurra por la razón que sea. 
+
+---
+
+# ¿Qué es lo que sigue?
+
+???
+
+¿Qué es lo que sigue?
+
+Por supuesto, seguiremos aprendiendo en comunidad. Además de seguir dictando nuestros talleres que seguirán siendo gratuitos, estamos pensando en generar encuentros cortos donde podamos discutir y aprender sobre alguna herramienta o recurso en participar. Que sea además un espacio de encuentro de la comunidad de docentes. 
+
+Pero además queremos medir y evaluar lo que estamos haciendo, esperamos pronto poder compartir resultados y muy seguramente lo que aprendimos en el proceso. 
+
+Seguiremos desarrollando MetaDocencia en caja, una guía para que cualquier persona pueda replicar o aprender de nuestra experiencia, por ahora en español pero muy pronto en portugues. 
+
+El año pasado MetaDocencia funcionó 100% con trabajo voluntario pero sabemos que eso no es sostenible. Para 2021 obtuvimos financiamiento de Code for Science and Society para cubrir nuestras actividades, pero para seguir en el futuro necesitamos encontrar más fuentes de financiamiento.
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create();
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
