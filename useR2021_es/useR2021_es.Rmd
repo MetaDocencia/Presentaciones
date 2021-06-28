@@ -7,7 +7,7 @@ author: |
 
 output:
   xaringan::moon_reader:
-    css: [useR, useR-fonts]
+    css: ["useR", "useR-fonts"]
     lib_dir: libs
    # self_contained: true
     # seal: false
