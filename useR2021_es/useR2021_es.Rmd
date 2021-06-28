@@ -9,7 +9,7 @@ output:
   xaringan::moon_reader:
     css: ["useR", "useR-fonts"]
     lib_dir: libs
-   # self_contained: true
+    self_contained: true
     # seal: false
     nature: 
       ratio: '16:9' 
