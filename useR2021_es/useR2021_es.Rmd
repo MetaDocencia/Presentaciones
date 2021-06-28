@@ -5,6 +5,7 @@ author: "Paola Corrales, Elio Campitelli y el equipo de MetaDocencia"
 output:
   xaringan::moon_reader:
     css: ["useR", "useR-fonts"]
+    self_contained: true    
 ---
 
 # Sobre MetaDocencia
