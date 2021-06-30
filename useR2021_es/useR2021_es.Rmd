@@ -15,7 +15,9 @@ output:
       ratio: '16:9' 
 ---
 
-## MetaDocencia es una comunidad inclusiva y colaborativa que busca que mejorar la educación potenciando docentes de países menos favorecidos  
+## MetaDocencia 
+
+#### "es una comunidad inclusiva y colaborativa que busca que mejorar la educación potenciando docentes de países menos favorecidos"  
 <img src="img/hex.png" align="right" width=200px alt="hex logo de metadocencia"/>
 
 
@@ -45,16 +47,16 @@ Empezamos siendo unas pocas personas en el equipo, hoy 21 personas hacen posible
 
 --
 
-    * Introducción al ABC para enseñar online
+    * `r emo::ji("apple")` Introducción al ABC para enseñar online
 --
   
-    * Cómo enseñar a programar
+    * `r emo::ji("green_apple")` Cómo enseñar a programar
 --
     
-    * Taller de Zoom
+    * `r emo::ji("tv")` Taller de Zoom
 --
     
-    * Taller de {learnr}
+    * `r emo::ji("teacher")` Taller de {learnr}
 
 ???
 ¿Qué hicimos hasta hoy?
@@ -67,7 +69,7 @@ Quienes participan de los cursos no sólo escuchan nuestros consejos sino que lo
 
 ---
 
-grafico va acá
+place holder: mapa de participantes
 
 ???
 Hasta hoy, 870 estudiantes / docentes participaron en nuestros cursos. Enseñamos 55 ediciones de la Introducción al ABC y 13 ediciones de nuestros otros talleres. En total, llegamos a más de 1200 educadores de habla hispana en 30 países distintos. 
@@ -76,6 +78,9 @@ Tuvimos participantes de muchas áreas de educación, aunque en su mayoría vien
 ---
 
 ## ¿Por qué MetaDocencia?
+
+<img src="img/mapa.svg" align="center" width=1000px alt="ilustración que muestra libros animados que suben una montaña y se encuentran con pares"/>
+
 
 ???
 
@@ -87,9 +92,15 @@ Pero aún las traducciones, sean hechas con una computadora o un ser humano no s
 
 Finalmente, la idea de “comunidades de práctica” es bastante nueva en nuestra región. No existe la costumbre de compartir los materiales que docentes generan para sus clases, a veces pasa todo lo contrario. Las instituciones tampoco incentivan estas prácticas ni si quiera internamente. Por eso tomamos prestado lo que aprendimos gracias a la comunidad de R en general y de R-Ladies en particular para darle forma a MetaDocencia.
 
-
+En definitiva nos encontramos con los y las docentes de America Latina, donde están en su contexto y realidades. 
 ---
 
+</br>
+</br>
+</br>
+</br>
+</br>
+.pull-right[<img src="img/balance.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte"/>]
 
 ???
 
@@ -99,7 +110,7 @@ Hasta acá les contamos qué es MetaDocencia. A lo largo de estos meses, aprendi
 ---
 class: chapter-slide
 
-# “La accesibilidad ayuda a todas las personas.”
+# La accesibilidad ayuda a todas las personas.
 
 
 ???
@@ -109,7 +120,7 @@ La primera idea que queremos compartir es: “La accesibilidad ayuda a todas las
 ---
 
 .center[
-<img src="img/intro-slide.png" align="center" width="1000px" alt="Captura de pantalla de google slides con la primera diapositiva de Intro al ABC para enseñar online mostrando las notas del orador"/>]
+<img src="img/intro-slide.png" align="center" width="900px" alt="Captura de pantalla de google slides con la primera diapositiva de Intro al ABC para enseñar online mostrando las notas del orador"/>]
 
 ???
 
@@ -120,7 +131,8 @@ Luego descubrimos que esas notas del orador, escritas con mucho detalle y dedica
 
 ---
 
-
+.center[
+<img src="img/diseñar.svg" align="center" width="900px" alt="Ilustración de libros, uno pintando el camino que los otros sigue para guiarse."/`>]
 
 ???
 
@@ -135,7 +147,8 @@ La accesibilidad es algo universal. Implica planear, proyectar, construir, y con
 
 ---
 
-
+.center[
+<img src="img/materiales_accesibles.svg" align="center" width="900px" alt="Ilustración de un libro que muestra materiales (otros libros, conversaciones, una viodellamada, etc)"/`>]
 
 ???
 La accesibilidad debe ser pensada desde el momento de la planificación de la actividad. Una cadena de accesibilidad garantiza la continuidad en el acceso a los espacios que permite conectar lugares y servicios, sin barreras. En nuestro caso, conectar los pasos para sumarse a la comunidad o participar en un curso. Implica la adecuación del entorno donde desarrollamos nuestras actividades y cómo lo hacemos, ya sea en persona o virtual. 
@@ -265,10 +278,14 @@ Texto alternativo en figuras e imágenes  que incluimos, para que nadie se pierd
 Evitar animaciones y fuentes de adorno, no importa que se vea lindo si no es accesible. 
 Texto alternativo en las figuras e imágenes que incluimos, para que nadie se pierda ningún detalle.
 
+---
+
+???
 Para nuestros cursos:
 Pausas frecuentes, porque ni docentes ni estudiantes puede estar concentrados eternamente frente a la pantalla
 Cada quien participa de la manera que prefiera, algunas personas querrán usar el micrófono, otras escribir en el chat, valoramos los aportes de todas las personas de igual manera. 
 
+---
 Para nuestras redes sociales:
 Acompañamos cada imagen con texto alternativo 
 Usamos lenguaje que incluya a todas las personas. 
@@ -326,6 +343,12 @@ Aprendemos más y mejor cuando nos sentimos bienvenidos.
 
 ---
 
+</br>
+</br>
+</br>
+</br>
+</br>
+.pull-right[<img src="img/comunidad.svg" align="center" width="800px" alt="Comunidad de libros todos diversos"/>]
 
 ???
 
@@ -355,7 +378,7 @@ class: chapter-slide
 El último principio que queríamos compartir con ustedes es este: materiales abiertos para todas las personas. 
 
 ---
-# Título con algo
+# Producir, compartir, reutilizar
 
 .center[
 <img
@@ -374,7 +397,7 @@ Que todo lo que hacemos, sea gratuito para las personas que participan no es cas
 
 ---
 
-# Título con algo
+# MetaDocencia en una caja
 
 .center[
 <img
