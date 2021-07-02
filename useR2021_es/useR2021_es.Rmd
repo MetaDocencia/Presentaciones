@@ -122,7 +122,9 @@ En definitiva nos encontramos con los y las docentes de America Latina, donde es
 </br>
 </br>
 </br>
-.pull-right[<img src="img/balance.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte"/>]
+.pull-right[
+<img src="img/balance.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte"/>
+]
 
 ???
 
@@ -154,7 +156,8 @@ Luego descubrimos que esas notas del orador, escritas con mucho detalle y dedica
 ---
 
 .center[
-<img src="img/diseñar.svg" align="center" width="900px" alt="Ilustración de libros, uno pintando el camino que los otros siguen para guiarse."/`>]
+<img src="img/disenar.svg" align="center" width="900px" alt="Ilustración de libros, uno pintando el camino que los otros siguen para guiarse."/>
+]
 
 ???
 
@@ -170,7 +173,8 @@ La accesibilidad es algo universal. Implica planear, proyectar, construir, y con
 ---
 
 .center[
-<img src="img/materiales_accesibles.svg" align="center" width="900px" alt="Ilustración de un libro que muestra materiales (otros libros, conversaciones, una viodellamada, etc)"/`>]
+<img src="img/materiales_accesibles.svg" align="center" width="900px" alt="Ilustración de un libro que muestra materiales (otros libros, conversaciones, una viodellamada, etc)" />
+]
 
 ???
 La accesibilidad debe ser pensada desde el momento de la planificación de la actividad. Una cadena de accesibilidad garantiza la continuidad en el acceso a los espacios que permite conectar lugares y servicios, sin barreras. En nuestro caso, conectar los pasos para sumarse a la comunidad o participar en un curso. Implica la adecuación del entorno donde desarrollamos nuestras actividades y cómo lo hacemos, ya sea en persona o virtual. 
@@ -237,7 +241,7 @@ Además armamos un sistema mediante el cual si alguien marca alguna de las opcio
 ## ¿Qué y cómo preguntamos sobre accesibilidad?
 
 .center[
-<img src="img/estadisticas-facilitacion.png" height=80%/>
+<img src="img/estadisticas-facilitacion.png" height=80% />
 ]
 
 
@@ -490,7 +494,9 @@ Por eso empezamos a trabajar en “MetaDocencia en una caja”, una guía integr
 </br>
 </br>
 </br>
-.pull-left[<img src="img/futuro.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte hacia la derecha."/>]
+.pull-left[
+<img src="img/futuro.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte hacia la derecha."/>
+]
 
 ???
 
