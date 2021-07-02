@@ -1,5 +1,5 @@
 ---
-title: "Enseñando a enseña sin perder a nadie en el camino "
+title: "Enseñando a enseñar sin perder a nadie en el camino "
 # subtitle: "MetaDocencia "
 author: | 
   Paola Corrales, Elio Campitelli, Iván Poggio y el equipo de MetaDocencia <br/>
@@ -7,7 +7,7 @@ author: |
 
 output:
   xaringan::moon_reader:
-    css: ["useR", "useR-fonts", "mycss.css"]
+    css: ["mycss.css", "useR", "useR-fonts"]
     lib_dir: libs
     self_contained: true
     # seal: false
@@ -29,8 +29,10 @@ Ivan: Yo soy Ivan
 Elio: y yo soy Elio
 Pao de nuevo: somos parte del equipo de MetaDocencia. Queremos compartir con ustedes nuestra experiencia enseñando a enseñar sin perder a nadie en el camino. 
 
-Hace un poco más de un año, cuando la pandemia era una noción distante y les docentes en Argentina se preparaban para empezar el año de clases como cualquier otro año, tolas las actividades presenciales, incluyendo las clases, se suspendieron. De un día para el otro. En esa situación, nos preguntamos qué podíamos hacer para ayudar a otras personas y poner en práctica lo que sabíamos hacer en parte gracias a organizaciones como The Carpentries y RStudio. Unos pocos días después MetaDocencia comenzó a tomar forma.
+Hace un poco más de un año, cuando la pandemia era una noción distante y les docentes en Argentina se preparaban para empezar el año de clases como cualquier otro año, todas las actividades presenciales, incluyendo las clases, se suspendieron. De un día para el otro. En esa situación, nos preguntamos qué podíamos hacer para ayudar a otras personas y poner en práctica lo que sabíamos hacer en parte gracias a organizaciones como The Carpentries y RStudio. Unos pocos días después MetaDocencia comenzó a tomar forma.
+
 MetaDocencia es una comunidad inclusiva y colaborativa que busca mejorar la educación potenciando docentes de países menos favorecidos. Nuestra idea inicial era compartir consejos y herramientas prácticas que pudieran aplicarse de manera inmediata.
+
 Pero luego nos dimos cuenta que era una oportunidad para abrir una discusión más grande: ¿Cómo enseñamos? ¿Cómo podemos aprender a enseñar en comunidad? Y así surgió el nombre: “Meta” “Docencia” porque nos proponemos enseñar a enseñar con la mirada puesta en nuestros estudiantes, al mismo tiempo docentes, aprendiendo de la experiencia de cada une. 
 
 ---
@@ -39,7 +41,9 @@ class: inverse, center, middle
 ![equipo de metadocencia](img/equipo.png)
 
 ???
-Empezamos siendo unas pocas personas en el equipo, hoy 21 personas hacen posible MetaDocencia junto a un gran equipo asesor formado por especialistas en educación y comunidades. Venimos de distintos lugares, algunes del mundo de R, otres de Python, varios docentes e interesades en educación. Vivimos en diferentes partes de Argentina y de otros países, hablamos Español, algunes Portugués. Nos une la diversidad, las ganas de enseñar y de aprender en comunidad. 
+Empezamos siendo unas pocas personas en el equipo, hoy 21 personas hacen posible MetaDocencia junto a un gran equipo asesor formado por especialistas en educación y comunidades. 
+
+Venimos de distintos lugares, algunes del mundo de R, otres de Python, varios docentes e interesades en educación. Vivimos en diferentes partes de Argentina y de otros países, hablamos Español, algunes Portugués. Nos une la diversidad, las ganas de enseñar y de aprender en comunidad. 
 
 ---
 
@@ -47,25 +51,37 @@ Empezamos siendo unas pocas personas en el equipo, hoy 21 personas hacen posible
 
 * Desarrollamos y adaptamos 4 talleres 
 
+???
+¿Qué hicimos hasta hoy?
+Desarrollamos y adaptamos 4 talleres 
 --
 
     * `r emo::ji("apple")` Introducción al ABC para enseñar online
+    
+???
+
+Primero, nuestro “Introducción al ABC para enseñar online” una guía rápida de herramientas para aplicar en el aula, a veces virtual, a veces en persona.
 --
   
     * `r emo::ji("green_apple")` Cómo enseñar a programar
+
+??? 
+
+En Cómo enseñar a programar nos sacamos las ganas de charlar sobre como enseñamos programación y nuestra experiencia aplicando los consejos del libro Teaching Tech Together. 
 --
     
     * `r emo::ji("tv")` Taller de Zoom
+
+???
+
+El Taller de Zoom 
 --
     
     * `r emo::ji("teacher")` Taller de {learnr}
 
 ???
-¿Qué hicimos hasta hoy?
-Desarrollamos y adaptamos 4 talleres 
-Primero, nuestro “Introducción al ABC para enseñar online” una guía rápida de herramientas para aplicar en el aula, a veces virtual, a veces en persona.
-En Cómo enseñar a programar nos sacamos las ganas de charlar sobre como enseñamos programación y nuestra experiencia aplicando los consejos de Teaching Tech Together. 
-El Taller de Zoom y el Taller de {learnr} para aprender a hacer tutoriales interactivos también se sumaron a la caja de herramientas prácticas.
+y el Taller de {learnr} para aprender a hacer tutoriales interactivos también se sumaron a la caja de herramientas prácticas.
+
 Quienes participan de los cursos no sólo escuchan nuestros consejos sino que los viven en carne propia. Por ejemplo, en cada encuentro discutimos sobre la importancia de dar y recibir buen feedback como una manera de mejorar las clases. Por eso al final de cada taller enseñamos con el ejemplo y les pedimos a cada participante que responda nuestra encuesta anónima con algo que tendríamos que mantener y algo que podríamos mejorar. En el taller de Zoom les invitamos a pasarse al otro lado y tomar las riendas de la reunión para experimentar con la herramienta mientras pensamos cómo podemos sacarle el jugo en nuestras clases. En definitiva, no sólo invitamos a les participantes a escuchar lo que enseñamos, sino también a prestar atención a cómo lo enseñamos y discutir sobre la mejor manera de hacerlo. 
 
 
@@ -362,7 +378,7 @@ Otra de las ideas que nos acompaña desde el principio es:
 Y eso hicimos hasta ahora, incluimos en nuestro formulario de registro preguntas para conocer a nuestros futuros y futuras estudiantes. ¿Qué experiencia tienen usando zoom? 
 Y tal vez a un año y medio de haber comenzado la pandemia esta pregunta puede parecer redundante pero igual que al principio decidimos no asumir y por el contrario nos proponemos conocer a nuestros estudiantes en su contexto y teniendo en cuenta su realidad. 
 
-
+Por supuesto eso no termina ahí, antes de cada curso, docentes y ayudantes se reúnen para revisar estas respuestas y prepararse para poder brindar la mejor experiencia de aprendizaje a todas las personas. Si alguien respondió que no tiene mucha experiencia usando documentos de google, seguramente quién esté como ayudante estará pendiente para responder a sus consultas. Si alguien se perdió alguna parte del curso por su conexión a internet, a la vuelta le compartiremos el link a la versión grabada para que pueda revisar después si quiere. 
 
 ---
 
@@ -373,9 +389,6 @@ Y tal vez a un año y medio de haber comenzado la pandemia esta pregunta puede p
 ]
 
 ???
-
-Por supuesto eso no termina ahí, antes de cada curso, docentes y ayudantes se reúnen para revisar estas respuestas y prepararse para poder brindar la mejor experiencia de aprendizaje a todas las personas. Si alguien respondió que no tiene mucha experiencia usando documentos de google, seguramente quién esté como ayudante estará pendiente para responder a sus consultas. Si alguien se perdió alguna parte del curso por su conexión a internet, a la vuelta le compartiremos el link a la versión grabada para que pueda revisar después si quiere. 
-
 
 Gracias al feedback de quienes participaron en nuestros cursos, nos dimos cuenta que esto era clave a la hora de conocer a nuestros estudiantes. Y esto es importante por varias razones. Por supuesto nos preparamos y preparamos nuestras clases de acuerdo a las personas a las que les enseñaremos, previendo posibles dificultades y barreras. Pero además les demostramos que nos interesa conocerles, valorando su experiencia y lo que puedan aportar para aprender entre todes. 
 
