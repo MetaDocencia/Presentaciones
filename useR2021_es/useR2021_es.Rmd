@@ -7,7 +7,7 @@ author: |
 
 output:
   xaringan::moon_reader:
-    css: ["useR", "useR-fonts"]
+    css: ["useR", "useR-fonts", "mycss.css"]
     lib_dir: libs
     self_contained: true
     # seal: false
@@ -15,7 +15,9 @@ output:
       ratio: '16:9' 
 ---
 
+
 ## MetaDocencia 
+
 
 #### "es una comunidad inclusiva y colaborativa que busca que mejorar la educación potenciando docentes de países menos favorecidos"  
 <img src="img/hex.png" align="right" width=200px alt="hex logo de metadocencia"/>
@@ -69,7 +71,11 @@ Quienes participan de los cursos no sólo escuchan nuestros consejos sino que lo
 
 ---
 
-place holder: mapa de participantes
+# Países tocados por MetaDocencia
+
+.center[
+<img src="img/mapa_mundo.png" height = 500px/>
+]
 
 ???
 Hasta hoy, 870 estudiantes / docentes participaron en nuestros cursos. Enseñamos 55 ediciones de la Introducción al ABC y 13 ediciones de nuestros otros talleres. En total, llegamos a más de 1200 educadores de habla hispana en 30 países distintos. 
@@ -79,8 +85,9 @@ Tuvimos participantes de muchas áreas de educación, aunque en su mayoría vien
 
 ## ¿Por qué MetaDocencia?
 
-<img src="img/mapa.svg" align="center" width=1000px alt="ilustración que muestra libros animados que suben una montaña y se encuentran con pares"/>
-
+.center[
+<img src="img/mapa.svg" align="center" height=450px alt="ilustración que muestra libros animados que suben una montaña y se encuentran con pares"/>
+]
 
 ???
 
@@ -112,7 +119,6 @@ class: chapter-slide
 
 # La accesibilidad ayuda a todas las personas.
 
-
 ???
 
 La primera idea que queremos compartir es: “La accesibilidad ayuda a todas las personas.”
@@ -120,7 +126,8 @@ La primera idea que queremos compartir es: “La accesibilidad ayuda a todas las
 ---
 
 .center[
-<img src="img/intro-slide.png" align="center" width="900px" alt="Captura de pantalla de google slides con la primera diapositiva de Intro al ABC para enseñar online mostrando las notas del orador"/>]
+<img src="img/intro-slide.png" align="center" height="600px" alt="Captura de pantalla de google slides con la primera diapositiva de Intro al ABC para enseñar online mostrando las notas del orador"/>
+]
 
 ???
 
@@ -132,7 +139,7 @@ Luego descubrimos que esas notas del orador, escritas con mucho detalle y dedica
 ---
 
 .center[
-<img src="img/diseñar.svg" align="center" width="900px" alt="Ilustración de libros, uno pintando el camino que los otros sigue para guiarse."/`>]
+<img src="img/diseñar.svg" align="center" width="900px" alt="Ilustración de libros, uno pintando el camino que los otros siguen para guiarse."/`>]
 
 ???
 
@@ -275,20 +282,50 @@ Evitar animaciones y fuentes de adorno, no importa que se vea lindo si no es acc
 
 Texto alternativo en figuras e imágenes  que incluimos, para que nadie se pierda ningún detalle.
 
+Para nuestras redes sociales:
+Acompañamos cada imagen con texto alternativo 
+
+
 Evitar animaciones y fuentes de adorno, no importa que se vea lindo si no es accesible. 
 Texto alternativo en las figuras e imágenes que incluimos, para que nadie se pierda ningún detalle.
 
 ---
 
+## Pausas frecuentes
+.center[
+<img src="img/pausa.svg" height = 450px alt = "Libro acostado en una hamaca tomando sol."/>
+]
+
 ???
 Para nuestros cursos:
 Pausas frecuentes, porque ni docentes ni estudiantes puede estar concentrados eternamente frente a la pantalla
-Cada quien participa de la manera que prefiera, algunas personas querrán usar el micrófono, otras escribir en el chat, valoramos los aportes de todas las personas de igual manera. 
 
 ---
-Para nuestras redes sociales:
-Acompañamos cada imagen con texto alternativo 
-Usamos lenguaje que incluya a todas las personas. 
+
+## Cada quien participa de la manera que prefiera
+
+.center[
+<img src="img/medios-participacion.svg" height=500px alt = "Libro rodeado de distintos recursos: Texto, gráficos, audio, video."/>
+]
+
+???
+
+Cada quien participa de la manera que prefiera, algunas personas querrán usar el micrófono, otras escribir en el chat, valoramos los aportes de todas las personas de igual manera. 
+
+
+
+---
+
+<br/>
+<br/>
+<br/>   
+
+.center[
+<img src="img/gente-afuera.svg" width=900px alt = "Cuatro libros sonrientes usando dispositivos sin problema y dos libros que se chocan entre ellos."/>
+]
+
+???
+
 
 Para nosotros, estar preparados para brindarle a les docentes que participan en nuestros cursos la mejor experiencia es muy importante. Hasta ahora pudimos cubrir las necesidades de todas las personas que se registraron. Eso por un lado significa que nuestros esfuerzos valen la pena, pero por el otro, también significa que no estamos llegando a personas con otras necesidades, tal vez porque en el mundo de la enseñanza, las personas con discapacidades no encuentran un espacio accesible. 
 
@@ -313,7 +350,11 @@ Otra de las ideas que nos acompaña desde el principio es:
 “No asumir, preguntar”. No asumir que nuestros participantes tienen acceso a una buena conexión a internet o que saben usar determinada herramienta.”
 
 ---
+## Encuesta antes de empezar 
 
+.center[
+<img src="img/encuesta.svg" height=400px alt = "Dos libros haciendo un reportaje a un tercero."/>
+]
 
 
 ???
@@ -321,13 +362,20 @@ Otra de las ideas que nos acompaña desde el principio es:
 Y eso hicimos hasta ahora, incluimos en nuestro formulario de registro preguntas para conocer a nuestros futuros y futuras estudiantes. ¿Qué experiencia tienen usando zoom? 
 Y tal vez a un año y medio de haber comenzado la pandemia esta pregunta puede parecer redundante pero igual que al principio decidimos no asumir y por el contrario nos proponemos conocer a nuestros estudiantes en su contexto y teniendo en cuenta su realidad. 
 
-Por supuesto eso no termina ahí, antes de cada curso, docentes y ayudantes se reúnen para revisar estas respuestas y prepararse para poder brindar la mejor experiencia de aprendizaje a todas las personas. Si alguien respondió que no tiene mucha experiencia usando documentos de google, seguramente quién esté como ayudante estará pendiente para responder a sus consultas. Si alguien se perdió alguna parte del curso por su conexión a internet, a la vuelta le compartiremos el link a la versión grabada para que pueda revisar después si quiere. 
 
 
 ---
 
+## Feedback luego de cada clase
+
+.center[
+<img src="img/feedback.svg" height=400px alt = "Dos libros uno al lado del otro. Uno con un cartel con un pulgar hacia abajo y otro con un cartel con un pulgar hacia arriba."/>
+]
 
 ???
+
+Por supuesto eso no termina ahí, antes de cada curso, docentes y ayudantes se reúnen para revisar estas respuestas y prepararse para poder brindar la mejor experiencia de aprendizaje a todas las personas. Si alguien respondió que no tiene mucha experiencia usando documentos de google, seguramente quién esté como ayudante estará pendiente para responder a sus consultas. Si alguien se perdió alguna parte del curso por su conexión a internet, a la vuelta le compartiremos el link a la versión grabada para que pueda revisar después si quiere. 
+
 
 Gracias al feedback de quienes participaron en nuestros cursos, nos dimos cuenta que esto era clave a la hora de conocer a nuestros estudiantes. Y esto es importante por varias razones. Por supuesto nos preparamos y preparamos nuestras clases de acuerdo a las personas a las que les enseñaremos, previendo posibles dificultades y barreras. Pero además les demostramos que nos interesa conocerles, valorando su experiencia y lo que puedan aportar para aprender entre todes. 
 
@@ -335,20 +383,19 @@ Gracias al feedback de quienes participaron en nuestros cursos, nos dimos cuenta
 
 class: chapter-slide
 
-# Aprendemos más y mejor cuando nos sentimos bienvenidos.
+# Aprendemos más y mejor cuando nos sentimos bienvenides.
 
 ???
 
-Aprendemos más y mejor cuando nos sentimos bienvenidos.
+Aprendemos más y mejor cuando nos sentimos bienvenides.
 
 ---
 
-</br>
-</br>
-</br>
-</br>
-</br>
-.pull-right[<img src="img/comunidad.svg" align="center" width="800px" alt="Comunidad de libros todos diversos"/>]
+# Código de conducta en comunidad 
+
+.center[
+<img src="img/comunidad.svg" align="center" height="450px" alt="Comunidad de libros todos diversos"/>
+]
 
 ???
 
@@ -357,6 +404,12 @@ Por esta razón nos guiamos por un código de conducta y les pedimos a todas las
 En Argentina y Latinoamérica no es común escuchar hablar de un código de conducta y si bien las instituciones educativas tienen sus reglamentos esta idea, para nosotros, vino de la mano de comunidades con R-Ladies. Por eso nos tomamos unos segundos al comienzo de cada taller para explicar de qué se trata, invitar a todas las personas a ayudarnos a generar un ambiente amigable y darles información sobre qué hacer en caso de que eso no ocurra por la razón que sea. 
 
 ---
+
+## sdfsdf
+
+.center[
+<img src="img/la-gorra.svg" align="center" height="400px" alt="Comunidad de libros todos diversos"/>
+]
 
 
 ???
@@ -414,6 +467,12 @@ Por eso empezamos a trabajar en “MetaDocencia en una caja”, una guía integr
 
 ---
 
+</br>
+</br>
+</br>
+</br>
+</br>
+.pull-left[<img src="img/futuro.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte"/>]
 
 ???
 
@@ -428,6 +487,13 @@ Otro objetivo, muy importante para este año es medir y evaluar lo que estamos h
 Y por supuesto, seguiremos aprendiendo en comunidad. Además de seguir dictando nuestros talleres que seguirán siendo gratuitos, comenzamos a diseñar encuentros cortos donde podamos discutir y aprender sobre alguna herramienta o recurso en particular. Que sea además un espacio de encuentro de la comunidad de docentes y que tal vez motive a otras personas a compartir su experiencia como MetaDocente. 
 
 
+
+
+
+---
+
+
+Imágenes de: pixabay.com/es/users/manfredsteger-1848497/
 
 
 
