@@ -2,8 +2,8 @@
 title: "Enseñando a enseñar sin perder a nadie en el camino "
 # subtitle: "MetaDocencia "
 author: | 
-  Paola Corrales, Elio Campitelli, Iván Poggio y el equipo de MetaDocencia <br/>
-  `r icons::icon_style(icons::fontawesome$solid$globe, fill = "#485a6c")` metadocencia.org -- `r icons::icon_style(icons::fontawesome$brands$twitter, fill = "#00A0EC")` metadocencia
+  <small>Paola Corrales, Elio Campitelli, Iván Poggio y el equipo de MetaDocencia <br/> 
+  `r icons::icon_style(icons::fontawesome$solid$globe, fill = "#485a6c")` metadocencia.org -- `r icons::icon_style(icons::fontawesome$brands$twitter, fill = "#00A0EC")` metadocencia</small>
 
 output:
   xaringan::moon_reader:
@@ -17,7 +17,6 @@ output:
 
 
 ## MetaDocencia 
-
 
 #### "es una comunidad inclusiva y colaborativa que busca que mejorar la educación potenciando docentes de países menos favorecidos"  
 <img src="img/hex.png" align="right" width=200px alt="hex logo de metadocencia"/>
@@ -62,10 +61,10 @@ Desarrollamos y adaptamos 4 talleres
 
 Primero, nuestro “Introducción al ABC para enseñar online” una guía rápida de herramientas para aplicar en el aula, a veces virtual, a veces en persona.
 --
-  
+
     * `r emo::ji("green_apple")` Cómo enseñar a programar
 
-??? 
+???
 
 En Cómo enseñar a programar nos sacamos las ganas de charlar sobre como enseñamos programación y nuestra experiencia aplicando los consejos del libro Teaching Tech Together. 
 --
@@ -74,7 +73,7 @@ En Cómo enseñar a programar nos sacamos las ganas de charlar sobre como enseñ
 
 ???
 
-El Taller de Zoom 
+El Taller de Zoom.
 --
     
     * `r emo::ji("teacher")` Taller de {learnr}
@@ -363,7 +362,7 @@ class: chapter-slide
 ???
 
 Otra de las ideas que nos acompaña desde el principio es: 
-“No asumir, preguntar”. No asumir que nuestros participantes tienen acceso a una buena conexión a internet o que saben usar determinada herramienta.”
+“No asumir, preguntar”. No asumir que nuestros participantes tienen acceso a una buena conexión a internet o que saben usar determinada herramienta.
 
 ---
 ## Encuesta antes de empezar 
@@ -375,10 +374,11 @@ Otra de las ideas que nos acompaña desde el principio es:
 
 ???
 
-Y eso hicimos hasta ahora, incluimos en nuestro formulario de registro preguntas para conocer a nuestros futuros y futuras estudiantes. ¿Qué experiencia tienen usando zoom? 
-Y tal vez a un año y medio de haber comenzado la pandemia esta pregunta puede parecer redundante pero igual que al principio decidimos no asumir y por el contrario nos proponemos conocer a nuestros estudiantes en su contexto y teniendo en cuenta su realidad. 
+Desde el primero día la experiencia de les interesades en participar empieza con un formulario que nos permite conocerles. ¿Cuál es su experiencia como docentes? ¿De qué tamaño son sus clases? ¿Tienen experiencia usando Zoom?
 
-Por supuesto eso no termina ahí, antes de cada curso, docentes y ayudantes se reúnen para revisar estas respuestas y prepararse para poder brindar la mejor experiencia de aprendizaje a todas las personas. Si alguien respondió que no tiene mucha experiencia usando documentos de google, seguramente quién esté como ayudante estará pendiente para responder a sus consultas. Si alguien se perdió alguna parte del curso por su conexión a internet, a la vuelta le compartiremos el link a la versión grabada para que pueda revisar después si quiere. 
+Y tal vez a un año y medio de haber comenzado la pandemia esta pregunta puede parecer redundante pero todvía quedan alguna almas inocentes que no fueron corrompidas por Zoom.  
+
+Por supuesto, si vamos a hacer preguntas, tenemos que leer las respuestas. Antes de cada curso, docentes y ayudantes se reúnen para revisar estas respuestas y prepararse para poder brindar la mejor experiencia de aprendizaje a todas las personas. Si alguien respondió que no tiene mucha experiencia usando documentos de google, seguramente quién esté como ayudante va a estar más pendiente para responder a sus consultas. Si alguien se perdió alguna parte del curso por su conexión a internet, a la vuelta le compartiremos el link a la versión grabada para que pueda revisar después si quiere. 
 
 ---
 
@@ -390,7 +390,11 @@ Por supuesto eso no termina ahí, antes de cada curso, docentes y ayudantes se r
 
 ???
 
-Gracias al feedback de quienes participaron en nuestros cursos, nos dimos cuenta que esto era clave a la hora de conocer a nuestros estudiantes. Y esto es importante por varias razones. Por supuesto nos preparamos y preparamos nuestras clases de acuerdo a las personas a las que les enseñaremos, previendo posibles dificultades y barreras. Pero además les demostramos que nos interesa conocerles, valorando su experiencia y lo que puedan aportar para aprender entre todes. 
+Y como toda buena historia, nuestros cursos terminan con un eco de como empezaron: con otra encuesta. Pero esta vez es una encuesta de feedback que nos permite evaluar cosas buenas y malas del curso. Luego de la clase, docentes y ayudantes se toman 15 minutos para repasar los comentarios. 
+
+Este feedback fue clave para que nuestros cursos evolucionaran. Nos aseguramos de mantener lo que a la mayoría les resultaba positivo e ir cambiando lo que les resultaba negativo. A partir de las respuestas también fuimos notando ciertas fallas en nuestra comunicación que le daban falsas expectativas a algunes asistentes.
+
+También notamos lo importante de no tomar todo el feedback demasiado en serio. Muchas veces recibimos comentarios de que un curso es demasiado largo, pero recibimos la misma cantaidad de comentarios diciendo que es muy corto, así que la duración probablemente no pueda ser mejor. 
 
 ---
 
@@ -418,19 +422,20 @@ En Argentina y Latinoamérica no es común escuchar hablar de un código de cond
 
 ---
 
-## sdfsdf
+## Algún título acá
 
 .center[
-<img src="img/la-gorra.svg" align="center" height="400px" alt="Comunidad de libros todos diversos"/>
+<img src="img/la-gorra.svg" align="center" height="400px" alt="Libro vestido de policía al lado de un semáforo."/>
 ]
 
 
 ???
+
 Nuestro primer código de conducta fue una adaptación del Código de Conducta para comunidades Open Source de Contributor Covenant. Y si bien fue una de las primeras cosas que sumamos a nuestra web mucho antes de dar nuestro primer curso, estaba muy lejos de ser perfecto. 
 
 En la infancia de MetaDocencia, cuando el equipo se contaba con los dedos de una mano, el equipo coordinador era a su vez encargado de recibir cualquier comentario o reporte si el Código de Conducta no era respetado. Pero la realidad es que no teníamos un protocolo a seguir, solo algo de intuición y buena voluntad. 
 
-Pero qué respuestas podíamos dar? Cómo íbamos a manejar este tipo de situaciones? Qué pasaba recibíamos algún reporte y alguien del equipo estaba involucrado o había conflictos de intereses? 
+Pero qué respuestas podíamos dar? Cómo íbamos a manejar este tipo de situaciones? Qué pasaba recibíamos algún reporte y alguien del equipo estaba involucrado o había conflictos de intereses? Es decir, ¿quién vigila a los vigilantes?
 
 Hace poco empezamos a responder a esas preguntas y reformular nuestro código de conducta en base a lo que en otras comunidades y en particular en useR!2021. Estamos definiendo un equipo que se haga responsable de este proceso formado por miembros del equipo de coordinación, colaboradores y miembros del equipo asesor para poder dar respuestas que garanticen la participación de todas las personas en un espacio seguro y amigable. 
 
@@ -459,7 +464,7 @@ Todo lo que hacemos tiene licencia abierta y al mismo tiempo, nos nutrimos de ot
 
 Creemos que esto es aún más importante cuando los recursos con los que contamos son escasos. ¿Por qué no aprovechar los materiales generados y probados por un colega, dando crédito en el camino? En MetaDocencia buscamos generar esto, produciendo materiales, compartiendo otros y brindando un espacio en nuestra comunidad de slack para que las personas puedan compartir su experiencia al usar un material o una herramienta. 
 
-Que todo lo que hacemos, sea gratuito para las personas que participan no es casualidad. Es parte de nuestro compromiso para disminuir y eliminar las barreras que existen entre las personas y los materiales y herramientas de calidad en América Latina. 
+Que todo lo que hacemos sea gratuito no es casualidad. Es parte de nuestro compromiso para disminuir y eliminar las barreras que existen entre las personas y los materiales y herramientas de calidad en América Latina. 
 
 ---
 
@@ -474,7 +479,7 @@ Que todo lo que hacemos, sea gratuito para las personas que participan no es cas
 
 
 ???
-En alguna curva del camino nos dimos cuenta que nuestro valor agregado no son sólo recursos aislados sino una forma de trabajar. Con solo ponerle una licencia abierta a una presentación o un post en la web no alcanza para incentivar el reuso de nuestros materiales ni que ese reuso sea con el espíritu de MetaDocencia. 
+En alguna curva del camino nos dimos cuenta que nuestro valor agregado no son sólo recursos aislados sino una forma de trabajar. Con solo estamparle un loguito de creative commons a una presentación o un post en la web no alcanza para incentivar el reuso de nuestros materiales ni que ese reuso sea con el espíritu de MetaDocencia. 
 
 Por eso empezamos a trabajar en “MetaDocencia en una caja”, una guía integral que documenta nuestros materiales y nuestro funcionamiento para que cualquiera pueda replicar lo que hacemos y alimentándose de todo lo que aprendimos en el camino y sin cometer nuestros errores. 
 
@@ -485,7 +490,7 @@ Por eso empezamos a trabajar en “MetaDocencia en una caja”, una guía integr
 </br>
 </br>
 </br>
-.pull-left[<img src="img/futuro.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte"/>]
+.pull-left[<img src="img/futuro.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte hacia la derecha."/>]
 
 ???
 
@@ -499,14 +504,27 @@ Otro objetivo, muy importante para este año es medir y evaluar lo que estamos h
 
 Y por supuesto, seguiremos aprendiendo en comunidad. Además de seguir dictando nuestros talleres que seguirán siendo gratuitos, comenzamos a diseñar encuentros cortos donde podamos discutir y aprender sobre alguna herramienta o recurso en particular. Que sea además un espacio de encuentro de la comunidad de docentes y que tal vez motive a otras personas a compartir su experiencia como MetaDocente. 
 
+---
 
+# Suelo fertil
+
+.center[
+<img src="img/hexs.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte hacia la izquierda."/>
+]
+
+???
+
+Nada de lo que hicimos hubiera sido posible sin las comunidades preexistentes. Comunidades como R-Ladies, LatinR, Grupos de usaurios de R, The Carpentries y RStudio. De ellas no sólo tomamos conocimiento y materiales, sino también las amistades que nos juntaron para formar MetaDocencia en un principio. 
 
 
 
 ---
 
+class: chapter-slide
 
-Imágenes de: pixabay.com/es/users/manfredsteger-1848497/
+# Gracias
+
+## Imágenes de: pixabay.com/es/users/manfredsteger-1848497/
 
 
 
