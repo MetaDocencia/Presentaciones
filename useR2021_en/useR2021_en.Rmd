@@ -1,8 +1,8 @@
 ---
-title: "Enseñando a enseñar sin perder a nadie en el camino "
+title: "Teaching to teach without losing anyone along the way "
 # subtitle: "MetaDocencia "
 author: | 
-  <small>Paola Corrales, Elio Campitelli, Iván Poggio y el equipo de MetaDocencia <br/> 
+  <small>Paola Corrales, Elio Campitelli, Iván Poggio and MetaDocencia team <br/> 
   `r icons::icon_style(icons::fontawesome$solid$globe, fill = "#485a6c")` metadocencia.org -- `r icons::icon_style(icons::fontawesome$brands$twitter, fill = "#00A0EC")` metadocencia</small>
 
 output:
@@ -21,9 +21,9 @@ output:
 </br>
 </br>
 
-.center[### "Es una comunidad inclusiva y colaborativa que busca que mejorar la educación potenciando docentes de países menos favorecidos"]
+.center[### "It is an inclusive and collaborative community that seeks to improve education by empowering teachers from less favored countries"]
   
-<img src="img/hex.png" align="right" width=200px alt="hex logo de metadocencia"/>
+<img src="img/hex.png" align="right" width=200px alt="Metadocencia hex logo"/>
 
 
 ???
@@ -54,17 +54,17 @@ Venimos de distintos lugares, algunes del mundo de R, otres de Python, varios do
 Próxima slide
 ---
 
-## ¿Qué hicimos hasta hoy?
+## What did we do until today?
 
-* Desarrollamos y adaptamos 4 talleres 
+* We develop and adapt 4 workshops 
 
-    * `r emo::ji("apple")` Introducción al ABC para enseñar online
+    * `r emo::ji("apple")` Introduction to ABC to teach online
     
-    * `r emo::ji("green_apple")` Cómo enseñar a programar
+    * `r emo::ji("green_apple")` How to teach programming
 
-    * `r emo::ji("tv")` Taller de Zoom
+    * `r emo::ji("tv")` Zoom Workshop
 
-    * `r emo::ji("teacher")` Taller de {learnr}
+    * `r emo::ji("teacher")` {Learnr} Workshop
 
 ???
 ¿Qué hicimos hasta hoy?
@@ -82,7 +82,7 @@ Quienes participan de los cursos no sólo escuchan nuestros consejos sino que lo
 Próxima slide
 ---
 
-# Países alcanzados por MetaDocencia
+#  Countries reached by MetaDocencia
 
 .center[
 <img src="img/mapa_mundo.png" height = 500px/>
@@ -95,7 +95,7 @@ Tuvimos participantes de muchas áreas de educación, aunque en su mayoría vien
 Próxima slide
 ---
 
-## ¿Por qué MetaDocencia?
+## Why MetaDocencia?
 
 
 * El inglés puede ser una barrera
@@ -106,7 +106,7 @@ Próxima slide
 
 </br>
 
-<img src="img/mapa.svg" align="right" height=300px alt="ilustración que muestra libros animados que suben una montaña y se encuentran con pares"/>
+<img src="img/mapa.svg" align="right" height=300px alt="The illustration shows cartoon books climbing a mountain and meeting peers."/>
 ]
 
 ???
@@ -130,7 +130,7 @@ Próxima slide
 </br>
 </br>
 .pull-right[
-<img src="img/balance.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte"/>
+<img src="img/balance.svg" align="center" width="700px" alt="The illustration of a book on a mountain looking at the horizon."/>
 ]
 
 ???
@@ -141,7 +141,7 @@ Próxima slide
 ---
 class: chapter-slide
 
-# La accesibilidad ayuda a todas las personas.
+# Accessibility helps everyone.
 
 ???
 
@@ -151,7 +151,7 @@ Próxima slide
 ---
 
 .center[
-<img src="img/intro-slide.png" align="center" height="600px" alt="Captura de pantalla de google slides con la primera diapositiva de Intro al ABC para enseñar online mostrando las notas del orador"/>
+<img src="img/intro-slide.png" align="center" height="600px" alt="Screenshot of the first slide of our course "Introduction to ABC to teach online" showing the speaker's notes."/>
 ]
 
 ???
@@ -164,7 +164,7 @@ Próxima slide
 ---
 
 .center[
-<img src="img/disenar.svg" align="center" width="900px" alt="Ilustración de libros, uno pintando el camino que los otros siguen para guiarse."/>
+<img src="img/disenar.svg" align="center" width="900px" alt="Illustration of books. One of them is painting the path, and the others follow the path to guide themselves."/>
 ]
 
 ???
@@ -181,7 +181,7 @@ Próxima slide
 ---
 
 .center[
-<img src="img/materiales_accesibles.svg" align="center" width="900px" alt="Ilustración de un libro que muestra materiales (otros libros, conversaciones, una viodellamada, etc)" />
+<img src="img/materiales_accesibles.svg" align="center" width="900px" alt="Illustration of a book showing materials (other books, conversations, a video call, etc)." />
 ]
 
 ???
@@ -197,7 +197,7 @@ Próxima slide
 ---
 
 
-## ¿Qué y cómo preguntamos sobre accesibilidad?
+##  What and how do we ask about accessibility?
 
 .center[
 <img src="img/preguntas-viejas.png" alt ="Captura de pantalla de una pregunta de formulario de google de selección múltple. Pregunta: ¿Tenés alguna discapacidad o impedimento que afecte la forma en que estudiás o trabajás? ¿Necesitás requisitos especiales en tu entorno de aprendizaje o trabajo? Seleccioná todas las que correspondan. Respuestas: Discapacidad visual. Discapacidad auditiva. Impedimento de movilidad. Discapacidad de aprendizaje. Trastorno de salud mental. Prefiero no decirlo. No tengo discapacidad o impedimento. Otros:" height=450px />
@@ -212,7 +212,7 @@ Todas estas preguntas (que eran muchas) las armamos en base a la intuición y a 
 Próxima slide
 ---
 
-## ¿Qué y cómo preguntamos sobre accesibilidad?
+## What and how do we ask about accessibility?
 
 .center[
 <img src="img/preguntas-nuevas-1.png" alt ="Captura de pantalla de una pregunta de formulario de google de selección múltple. Pregunta: ¿Tienes alguna de las siguientes dificultades para participar de talleres en forma remota? Marca todas las que correspondan. Respuestas: Tengo dificultad para ver, aun con anteojos o lentes de contacto. Tengo dificultad para oír, aun con audífono. Tengo dificultades de movilidad que afectan mi interacción con dispositivos electrónicos como el celular o computadora. Tengo dificultad para permanecer delante de una pantalla más de 50 minutos. Tengo dificultad para comprender o recordar. Tengo dificultad para concentrarme. Tengo dificultad para comunicarme. No tengo ninguna de estas dificultades. Prefiero no decirlo. Otros." height="500" />
@@ -234,7 +234,7 @@ Somos conscientes que estas preguntas pueden ser información sensible por lo qu
 Próxima slide
 ---
 
-## ¿Qué y cómo preguntamos sobre accesibilidad?
+##  What and how do we ask about accessibility?
 
 .center[
 <img src="img/preguntas-nuevas-2.png" alt ="Captura de pantalla de una pregunta de formulario de google de selección múltple. Pregunta: Si marcaste que tenés alguna dificultad, ¿cómo podemos facilitar tu participación? Marca todas las que correspondan.  Respuestas: No tengo ninguna dificultad. Con un lector de pantalla. Con materiales con alto contraste y letra grande. Usando comunicación por voz. Hablando claro, pausado, con buena calidad de audio. Con subtitulado. Usando lengua de señas. Usando comunicación por escrito. Con pausas frecuentes lejos de la pantalla. Prefiero no decirlo. Otros." height = "500" />
@@ -250,7 +250,7 @@ Además armamos un sistema mediante el cual si alguien marca alguna de las opcio
 Próxima slide
 ---
 
-## ¿Qué y cómo preguntamos sobre accesibilidad?
+##  What and how do we ask about accessibility?
 
 .center[
 <img src="img/estadisticas-facilitacion.png" height=80% />
