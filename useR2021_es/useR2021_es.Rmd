@@ -473,10 +473,7 @@ Próxima slide
 ## Producir, compartir, reutilizar
 
 .center[
-<img
-    src="img/cc-compartir.svg"
-    alt="Tres cuadrados sonrientes agarran hojas de colores de una pila desordenada"
-    height=400px/>
+<img src="img/cc-compartir.svg" alt="Tres cuadrados sonrientes agarran hojas de colores de una pila desordenada" height=400px/>
 ]
 
 ???
@@ -493,10 +490,7 @@ Próxima slide
 ## MetaDocencia en una caja
 
 .center[
-<img
-    src="img/cc-compartir-caja.svg"
-    alt="Un cuadrado agarrando hojas de colores de una caja ordenada." 
-    height=400px/>
+<img src="img/cc-compartir-caja.svg" alt="Un cuadrado agarrando hojas de colores de una caja ordenada." height=400px/>
 ]
 
 
