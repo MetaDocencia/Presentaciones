@@ -82,7 +82,7 @@ Quienes participan de los cursos no sólo escuchan nuestros consejos sino que lo
 Próxima slide
 ---
 
-#  Countries reached by MetaDocencia
+#  Countries reached by MetaDocencia 
 
 .center[
 <img src="img/mapa_mundo.png" height = 500px/>
