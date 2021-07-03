@@ -16,9 +16,13 @@ output:
 ---
 
 
-## MetaDocencia 
+# MetaDocencia 
 
-#### "es una comunidad inclusiva y colaborativa que busca que mejorar la educación potenciando docentes de países menos favorecidos"  
+</br>
+</br>
+
+.center[### "Es una comunidad inclusiva y colaborativa que busca que mejorar la educación potenciando docentes de países menos favorecidos"]
+  
 <img src="img/hex.png" align="right" width=200px alt="hex logo de metadocencia"/>
 
 
@@ -27,12 +31,15 @@ Pao: Hola! Mi nombre es Paola
 Ivan: Yo soy Ivan
 Elio: y yo soy Elio
 Pao de nuevo: somos parte del equipo de MetaDocencia. Queremos compartir con ustedes nuestra experiencia enseñando a enseñar sin perder a nadie en el camino. 
+Próxima slide
+
 
 Hace un poco más de un año, cuando la pandemia era una noción distante y les docentes en Argentina se preparaban para empezar el año de clases como cualquier otro año, todas las actividades presenciales, incluyendo las clases, se suspendieron. De un día para el otro. En esa situación, nos preguntamos qué podíamos hacer para ayudar a otras personas y poner en práctica lo que sabíamos hacer en parte gracias a organizaciones como The Carpentries y RStudio. Unos pocos días después MetaDocencia comenzó a tomar forma.
 
 MetaDocencia es una comunidad inclusiva y colaborativa que busca mejorar la educación potenciando docentes de países menos favorecidos. Nuestra idea inicial era compartir consejos y herramientas prácticas que pudieran aplicarse de manera inmediata.
 
 Pero luego nos dimos cuenta que era una oportunidad para abrir una discusión más grande: ¿Cómo enseñamos? ¿Cómo podemos aprender a enseñar en comunidad? Y así surgió el nombre: “Meta” “Docencia” porque nos proponemos enseñar a enseñar con la mirada puesta en nuestros estudiantes, al mismo tiempo docentes, aprendiendo de la experiencia de cada une. 
+Próxima slide
 
 ---
 class: inverse, center, middle
@@ -44,49 +51,38 @@ Empezamos siendo unas pocas personas en el equipo, hoy 21 personas hacen posible
 
 Venimos de distintos lugares, algunes del mundo de R, otres de Python, varios docentes e interesades en educación. Vivimos en diferentes partes de Argentina y de otros países, hablamos Español, algunes Portugués. Nos une la diversidad, las ganas de enseñar y de aprender en comunidad. 
 
+Próxima slide
 ---
 
 ## ¿Qué hicimos hasta hoy?
 
 * Desarrollamos y adaptamos 4 talleres 
 
-???
-¿Qué hicimos hasta hoy?
-Desarrollamos y adaptamos 4 talleres 
---
-
     * `r emo::ji("apple")` Introducción al ABC para enseñar online
     
-???
-
-Primero, nuestro “Introducción al ABC para enseñar online” una guía rápida de herramientas para aplicar en el aula, a veces virtual, a veces en persona.
---
-
     * `r emo::ji("green_apple")` Cómo enseñar a programar
 
-???
-
-En Cómo enseñar a programar nos sacamos las ganas de charlar sobre como enseñamos programación y nuestra experiencia aplicando los consejos del libro Teaching Tech Together. 
---
-    
     * `r emo::ji("tv")` Taller de Zoom
 
-???
-
-El Taller de Zoom.
---
-    
     * `r emo::ji("teacher")` Taller de {learnr}
 
 ???
+¿Qué hicimos hasta hoy?
+Desarrollamos y adaptamos 4 talleres
+
+Primero, nuestro “Introducción al ABC para enseñar online” una guía rápida de herramientas para aplicar en el aula, a veces virtual, a veces en persona.
+
+En Cómo enseñar a programar nos sacamos las ganas de charlar sobre como enseñamos programación y nuestra experiencia aplicando los consejos del libro Teaching Tech Together. 
+El Taller de Zoom.
+
 y el Taller de {learnr} para aprender a hacer tutoriales interactivos también se sumaron a la caja de herramientas prácticas.
 
 Quienes participan de los cursos no sólo escuchan nuestros consejos sino que los viven en carne propia. Por ejemplo, en cada encuentro discutimos sobre la importancia de dar y recibir buen feedback como una manera de mejorar las clases. Por eso al final de cada taller enseñamos con el ejemplo y les pedimos a cada participante que responda nuestra encuesta anónima con algo que tendríamos que mantener y algo que podríamos mejorar. En el taller de Zoom les invitamos a pasarse al otro lado y tomar las riendas de la reunión para experimentar con la herramienta mientras pensamos cómo podemos sacarle el jugo en nuestras clases. En definitiva, no sólo invitamos a les participantes a escuchar lo que enseñamos, sino también a prestar atención a cómo lo enseñamos y discutir sobre la mejor manera de hacerlo. 
 
-
+Próxima slide
 ---
 
-# Países tocados por MetaDocencia
+# Países alcanzados por MetaDocencia
 
 .center[
 <img src="img/mapa_mundo.png" height = 500px/>
@@ -96,12 +92,21 @@ Quienes participan de los cursos no sólo escuchan nuestros consejos sino que lo
 Hasta hoy, 870 estudiantes / docentes participaron en nuestros cursos. Enseñamos 55 ediciones de la Introducción al ABC y 13 ediciones de nuestros otros talleres. En total, llegamos a más de 1200 educadores de habla hispana en 30 países distintos. 
 Tuvimos participantes de muchas áreas de educación, aunque en su mayoría vienen de las ciencias exactas. Fue sorprendente encontrarnos con muchas personas que enseñan fuera de instituciones educativas, dando clases de música o yoga!
 
+Próxima slide
 ---
 
 ## ¿Por qué MetaDocencia?
 
-.center[
-<img src="img/mapa.svg" align="center" height=450px alt="ilustración que muestra libros animados que suben una montaña y se encuentran con pares"/>
+
+* El inglés puede ser una barrera
+* Una traducción a veces no es suficiente
+* Construir una comunidad regional
+
+.right[
+
+</br>
+
+<img src="img/mapa.svg" align="right" height=300px alt="ilustración que muestra libros animados que suben una montaña y se encuentran con pares"/>
 ]
 
 ???
@@ -110,11 +115,13 @@ Habiendo tantos recursos abiertos en educación, y comunidades alrededor del mun
 
 En primer lugar la mayoría de los recursos y comunidades sobre educación online hablan inglés y en Argentina y muchos países de Latinoamérica, el inglés es una gran barrera para el acceso al conocimiento. En Argentina, menos de la mitad de la población tiene un mínimo manejo del inglés y de los que saben, la enorme mayoría saben muy poco. Por lo tanto, está más que claro que aún el mejor recurso, es inaccesible para una gran parte de la población de educadores si está en inglés. 
 
-Pero aún las traducciones, sean hechas con una computadora o un ser humano no son suficientes. Los recursos originalmente anglos, se basan en suposiciones muy fuertes sobre la cultura, el acceso a determinados recursos y la familiaridad con tecnologías como zoom, slack o google docs. Esto no siempre es aplicable a los diversos contextos que existen en América Latina, por ejemplo si tenemos en cuenta la brecha digital. 
+Pero aún las traducciones, sean hechas con una computadora o un ser humano no son suficientes. Los recursos originalmente anglos, se basan en suposiciones muy fuertes sobre la cultura, el acceso a determinados recursos y la familiaridad con tecnologías como zoom, slack o google docs. Si tenemos en cuenta la brecha digital, esto no siempre es aplicable a los diversos contextos que existen en América Latina . 
 
 Finalmente, la idea de “comunidades de práctica” es bastante nueva en nuestra región. No existe la costumbre de compartir los materiales que docentes generan para sus clases, a veces pasa todo lo contrario. Las instituciones tampoco incentivan estas prácticas ni si quiera internamente. Por eso tomamos prestado lo que aprendimos gracias a la comunidad de R en general y de R-Ladies en particular para darle forma a MetaDocencia.
 
 En definitiva nos encontramos con los y las docentes de America Latina, donde están en su contexto y realidades. 
+
+Próxima slide
 ---
 
 </br>
@@ -130,7 +137,7 @@ En definitiva nos encontramos con los y las docentes de America Latina, donde es
 
 Hasta acá les contamos qué es MetaDocencia. A lo largo de estos meses, aprendimos muchas cosas: de la experiencia, del feedback de nuestros participantes, de otras comunidades. Otras cosas, ideas y valores , nos acompañan desde el primer día. 
 
-
+Próxima slide
 ---
 class: chapter-slide
 
@@ -140,6 +147,7 @@ class: chapter-slide
 
 La primera idea que queremos compartir es: “La accesibilidad ayuda a todas las personas.”
 
+Próxima slide
 ---
 
 .center[
@@ -152,7 +160,7 @@ Desde el inicio nos propusimos generar materiales que fueran accesibles, empezan
 
 Luego descubrimos que esas notas del orador, escritas con mucho detalle y dedicación, nos servían para que las nuevas personas del equipo se familiarizaran con el curso y los materiales y se pudieran preparar para enseñarlo. 
 
-
+Próxima slide
 ---
 
 .center[
@@ -169,7 +177,7 @@ Todas estas razones nos hicieron pensar en que las herramientas que ofrecíamos 
 
 La accesibilidad es algo universal. Implica planear, proyectar, construir, y conservar nuestros cursos de modo que tenga en cuenta las necesidades y los requerimientos de todas las personas, sea cual sea su edad, condición o capacidad. En el contexto de MetaDocencia, era necesario diseñar el material pensando en diferentes tipos de estudiantes, sus necesidades y / o dificultades para paulatinamente disminuir las barreras de acceso a nuestros cursos y materiales.
 
-
+Próxima slide
 ---
 
 .center[
@@ -185,6 +193,7 @@ Una de las primeras cosas que tuvimos que arreglar fue la de agregar texto alter
 
 Esto también aplica a nuestras publicaciones en redes sociales y nuestra web, donde publicamos imágenes con buen contraste y texto alternativo.
 
+Próxima slide
 ---
 
 
@@ -200,6 +209,7 @@ En nuestro primer formulario de registro, allá por marzo de 2020,  ya había pr
 
 Todas estas preguntas (que eran muchas) las armamos en base a la intuición y a medida que veíamos las respuestas nos dimos cuenta que necesitaban un cambio. Algunas preguntas daban respuestas útiles y accionables. Sí sabíamos que alguien nunca había usado zoom, sabíamos que teníamos que hacer más hincapié al mostrar cómo íbamos trabajar en zoom al comienzo del curso. Pero otras eran más difíciles de interpretar. ¿Qué hacíamos si alguien decía que tenía una “discapacidad visual”? ¿Teníamos que basarnos sólo en el audio o con usar letra grande y con alto contraste era suficiente? 
 
+Próxima slide
 ---
 
 ## ¿Qué y cómo preguntamos sobre accesibilidad?
@@ -221,6 +231,7 @@ Dificultad para ver, para oír, dificultad para interactuar con dispositivos o p
 
 Somos conscientes que estas preguntas pueden ser información sensible por lo que también les damos la posibilidad de no no responder. Y siempre tenemos en cuenta que las personas responderan de acuerdo a la percepción que tienen sobre si mismas. 
 
+Próxima slide
 ---
 
 ## ¿Qué y cómo preguntamos sobre accesibilidad?
@@ -236,6 +247,7 @@ Pero además les preguntamos cómo podemos facilitar su participación y ofrecem
 
 Además armamos un sistema mediante el cual si alguien marca alguna de las opciones de accesibilidad, inmediatamente se les envía un mail al equipo de accesibilidad para que revisen el caso. El equipo revisa las respuestas y si es necesario se pone en contacto con la persona para decidir en conjunto si es necesario hacer algún cambio a nuestros materiales o a nuestro curso para que esa persona pueda participar. 
 
+Próxima slide
 ---
 
 ## ¿Qué y cómo preguntamos sobre accesibilidad?
@@ -249,9 +261,8 @@ Además armamos un sistema mediante el cual si alguien marca alguna de las opcio
 
 Durante 2021, de las 540 personas que completaron nuestro formulario de registro, 87 respondieron a estas preguntas de manera afirmativa. Muchas de esas personas nos pidieron hacer pausas frecuentes lejos de la pantalla, hablar lento y claro o usar materiales con letra grande.
 
+Próxima slide
 ---
-
-<!-- # Estándares -->
 
 ## Letra grande
 
@@ -265,7 +276,7 @@ La buena noticia es que tenemos en cuenta todos estos pedidos desde el momento q
 Para nuestras presentaciones:
 Letra grande, nunca nadie se quejó de que la letra era demasiado grande.
 
-
+Próxima slide
 ---
 
 ## Buen contraste
@@ -276,10 +287,10 @@ Letra grande, nunca nadie se quejó de que la letra era demasiado grande.
 
 ???
 
-
 Buen contraste entre las letras y el fondo, aun si eso implica cambiar nuestros colores favoritos.
 Al chequear el contraste de algunas de nuestras presentaciones nos dimos cuenta que no cumplían con los estándares mínimos. 
 
+Próxima slide
 ---
 
 ## Evitar animaciones y fuentes de adorno, no importa que se vea lindo si no es accesible. 
@@ -287,6 +298,7 @@ Al chequear el contraste de algunas de nuestras presentaciones nos dimos cuenta 
 ???
 Evitar animaciones y fuentes de adorno, no importa que se vea lindo si no es accesible. 
 
+Próxima slide
 ---
 
 
@@ -299,15 +311,9 @@ Evitar animaciones y fuentes de adorno, no importa que se vea lindo si no es acc
 
 ???
 
-Texto alternativo en figuras e imágenes  que incluimos, para que nadie se pierda ningún detalle.
+Texto alternativo en las figuras e imágenes que incluimos en nuestras presentaciones y redes sociales, para que nadie se pierda ningún detalle.
 
-Para nuestras redes sociales:
-Acompañamos cada imagen con texto alternativo 
-
-
-Evitar animaciones y fuentes de adorno, no importa que se vea lindo si no es accesible. 
-Texto alternativo en las figuras e imágenes que incluimos, para que nadie se pierda ningún detalle.
-
+Próxima slide
 ---
 
 ## Pausas frecuentes
@@ -319,6 +325,7 @@ Texto alternativo en las figuras e imágenes que incluimos, para que nadie se pi
 Para nuestros cursos:
 Pausas frecuentes, porque ni docentes ni estudiantes puede estar concentrados eternamente frente a la pantalla
 
+Próxima slide
 ---
 
 ## Cada quien participa de la manera que prefiera
@@ -331,10 +338,10 @@ Pausas frecuentes, porque ni docentes ni estudiantes puede estar concentrados et
 
 Cada quien participa de la manera que prefiera, algunas personas querrán usar el micrófono, otras escribir en el chat, valoramos los aportes de todas las personas de igual manera. 
 
-
-
+Próxima slide
 ---
 
+## Lo que nos falta
 <br/>
 <br/>
 <br/>   
@@ -345,10 +352,11 @@ Cada quien participa de la manera que prefiera, algunas personas querrán usar e
 
 ???
 
-
 Para nosotros, estar preparados para brindarle a les docentes que participan en nuestros cursos la mejor experiencia es muy importante. Hasta ahora pudimos cubrir las necesidades de todas las personas que se registraron. Eso por un lado significa que nuestros esfuerzos valen la pena, pero por el otro, también significa que no estamos llegando a personas con otras necesidades, tal vez porque en el mundo de la enseñanza, las personas con discapacidades no encuentran un espacio accesible. 
 
+Próxima slide
 ---
+## Iterar para mejorar
 
 (algunan imagen de zoom con subtítulos)
 
@@ -357,6 +365,7 @@ Sabemos que nos faltan algunas cosas todavía. Por ejemplo, si bien probamos y y
 
 En nuestra lista también está mejorar los subtítulos de los videos que subimos a YouTube, por ahora son creados automáticamente y dejan mucho que desear. O migrar nuestra comunidad en Slack a otra plataforma más accesible para personas que usan lectores de pantalla.
 
+Próxima slide
 ---
 
 class: chapter-slide
@@ -368,13 +377,13 @@ class: chapter-slide
 Otra de las ideas que nos acompaña desde el principio es: 
 “No asumir, preguntar”. No asumir que nuestros participantes tienen acceso a una buena conexión a internet o que saben usar determinada herramienta.
 
+Próxima slide
 ---
 ## Encuesta antes de empezar 
 
 .center[
 <img src="img/encuesta.svg" height=400px alt = "Dos libros haciendo un reportaje a un tercero."/>
 ]
-
 
 ???
 
@@ -384,6 +393,7 @@ Y tal vez a un año y medio de haber comenzado la pandemia esta pregunta puede p
 
 Por supuesto, si vamos a hacer preguntas, tenemos que leer las respuestas. Antes de cada curso, docentes y ayudantes se reúnen para revisar estas respuestas y prepararse para poder brindar la mejor experiencia de aprendizaje a todas las personas. Si alguien respondió que no tiene mucha experiencia usando documentos de google, seguramente quién esté como ayudante va a estar más pendiente para responder a sus consultas. Si alguien se perdió alguna parte del curso por su conexión a internet, a la vuelta le compartiremos el link a la versión grabada para que pueda revisar después si quiere. 
 
+Próxima slide
 ---
 
 ## Feedback luego de cada clase
@@ -400,6 +410,7 @@ Este feedback fue clave para que nuestros cursos evolucionaran. Nos aseguramos d
 
 También notamos lo importante de no tomar todo el feedback demasiado en serio. Muchas veces recibimos comentarios de que un curso es demasiado largo, pero recibimos la misma cantaidad de comentarios diciendo que es muy corto, así que la duración probablemente no pueda ser mejor. 
 
+Próxima slide
 ---
 
 class: chapter-slide
@@ -410,9 +421,10 @@ class: chapter-slide
 
 Aprendemos más y mejor cuando nos sentimos bienvenides.
 
+Próxima slide
 ---
 
-# Código de conducta en comunidad 
+## Construyendo un espacio amigable
 
 .center[
 <img src="img/comunidad.svg" align="center" height="450px" alt="Comunidad de libros todos diversos"/>
@@ -424,9 +436,10 @@ Por esta razón nos guiamos por un código de conducta y les pedimos a todas las
 
 En Argentina y Latinoamérica no es común escuchar hablar de un código de conducta y si bien las instituciones educativas tienen sus reglamentos esta idea, para nosotros, vino de la mano de comunidades con R-Ladies. Por eso nos tomamos unos segundos al comienzo de cada taller para explicar de qué se trata, invitar a todas las personas a ayudarnos a generar un ambiente amigable y darles información sobre qué hacer en caso de que eso no ocurra por la razón que sea. 
 
+Próxima slide
 ---
 
-## Algún título acá
+## Código de conducta en comunidad 
 
 .center[
 <img src="img/la-gorra.svg" align="center" height="400px" alt="Libro vestido de policía al lado de un semáforo."/>
@@ -443,6 +456,7 @@ Pero qué respuestas podíamos dar? Cómo íbamos a manejar este tipo de situaci
 
 Hace poco empezamos a responder a esas preguntas y reformular nuestro código de conducta en base a lo que en otras comunidades y en particular en useR!2021. Estamos definiendo un equipo que se haga responsable de este proceso formado por miembros del equipo de coordinación, colaboradores y miembros del equipo asesor para poder dar respuestas que garanticen la participación de todas las personas en un espacio seguro y amigable. 
 
+Próxima slide
 ---
 
 class: chapter-slide
@@ -452,8 +466,9 @@ class: chapter-slide
 ???
 El último principio que queríamos compartir con ustedes es este: materiales abiertos para todas las personas. 
 
+Próxima slide
 ---
-# Producir, compartir, reutilizar
+## Producir, compartir, reutilizar
 
 .center[
 <img
@@ -470,9 +485,10 @@ Creemos que esto es aún más importante cuando los recursos con los que contamo
 
 Que todo lo que hacemos sea gratuito no es casualidad. Es parte de nuestro compromiso para disminuir y eliminar las barreras que existen entre las personas y los materiales y herramientas de calidad en América Latina. 
 
+Próxima slide
 ---
 
-# MetaDocencia en una caja
+## MetaDocencia en una caja
 
 .center[
 <img
@@ -487,15 +503,14 @@ En alguna curva del camino nos dimos cuenta que nuestro valor agregado no son s�
 
 Por eso empezamos a trabajar en “MetaDocencia en una caja”, una guía integral que documenta nuestros materiales y nuestro funcionamiento para que cualquiera pueda replicar lo que hacemos y alimentándose de todo lo que aprendimos en el camino y sin cometer nuestros errores. 
 
+Próxima slide
 ---
+## ¿Qué sigue a partir de ahora?
 
 </br>
 </br>
-</br>
-</br>
-</br>
-.pull-left[
-<img src="img/futuro.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte hacia la derecha."/>
+.left[
+<img src="img/futuro.svg" align="left" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte hacia la derecha."/>
 ]
 
 ???
@@ -510,9 +525,10 @@ Otro objetivo, muy importante para este año es medir y evaluar lo que estamos h
 
 Y por supuesto, seguiremos aprendiendo en comunidad. Además de seguir dictando nuestros talleres que seguirán siendo gratuitos, comenzamos a diseñar encuentros cortos donde podamos discutir y aprender sobre alguna herramienta o recurso en particular. Que sea además un espacio de encuentro de la comunidad de docentes y que tal vez motive a otras personas a compartir su experiencia como MetaDocente. 
 
+Próxima slide
 ---
 
-# Suelo fertil
+# Suelo fértil
 
 .center[
 <img src="img/hexs.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte hacia la izquierda."/>
@@ -522,8 +538,9 @@ Y por supuesto, seguiremos aprendiendo en comunidad. Además de seguir dictando 
 
 Nada de lo que hicimos hubiera sido posible sin las comunidades preexistentes. Comunidades como R-Ladies, LatinR, Grupos de usaurios de R, The Carpentries y RStudio. De ellas no sólo tomamos conocimiento y materiales, sino también las amistades que nos juntaron para formar MetaDocencia en un principio. 
 
+Tampoco hubiera sido posible continuar sosteniendo nuestras actividades y cursos gratuitos sin el apoyo del INTA y el financiamiento de laCode for Science and Society y la Gordon and Betty Moore Foundation.
 
-
+Próxima slide
 ---
 
 class: chapter-slide
@@ -532,5 +549,7 @@ class: chapter-slide
 
 ## Imágenes de: pixabay.com/es/users/manfredsteger-1848497/
 
+???
 
+Muchísimas gracias por acompañarnos a enseñar sin perder a nadie en el camino. 
 
