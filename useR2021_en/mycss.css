@@ -1,0 +1,30 @@
+.remark-slide-content {
+    background-image: url(https://www.r-project.org/conferences/useR.png);
+}
+
+
+.chapter-slide {
+  background-image: url("https://www.r-project.org/conferences/useR.png"), linear-gradient(to bottom, #CC393C 85%, #CC393C 95%) ;
+  background-position: 10px 590px , center;
+  background-size: 0px, 100% 100%, cover ;
+}
+
+.chapter-slide .remark-slide-number {
+  display: none;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+
+.chapter-slide h1 {
+  position: absolute;
+  top: 55%;
+  left: 10%;
+  text-align: left;
+  color: #e8e8e8 ;
+}
+
+
+body { font-family: 'Droid Sans', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', serif;
+  font-size: 16pt
+}
