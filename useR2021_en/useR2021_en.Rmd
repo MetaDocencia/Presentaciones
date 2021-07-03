@@ -42,9 +42,11 @@ Pero luego nos dimos cuenta que era una oportunidad para abrir una discusión m�
 Próxima slide
 
 ---
-class: inverse, center, middle
+#### El equipo
 
-![equipo de metadocencia](img/equipo.png)
+.center[
+<img src="img/equipo.svg" height = 550px alt="Fotos de todo el equipo coordinador, colaboradores y equipo asesor"/>
+]
 
 ???
 Empezamos siendo unas pocas personas en el equipo, hoy 21 personas hacen posible MetaDocencia junto a un gran equipo asesor formado por especialistas en educación y comunidades. 
@@ -197,7 +199,7 @@ Próxima slide
 ---
 
 
-## ¿Qué y cómo preguntamos sobre accesibilidad?
+## ¿Qué y cómo preguntábamos sobre accesibilidad?
 
 .center[
 <img src="img/preguntas-viejas.png" alt ="Captura de pantalla de una pregunta de formulario de google de selección múltple. Pregunta: ¿Tenés alguna discapacidad o impedimento que afecte la forma en que estudiás o trabajás? ¿Necesitás requisitos especiales en tu entorno de aprendizaje o trabajo? Seleccioná todas las que correspondan. Respuestas: Discapacidad visual. Discapacidad auditiva. Impedimento de movilidad. Discapacidad de aprendizaje. Trastorno de salud mental. Prefiero no decirlo. No tengo discapacidad o impedimento. Otros:" height=450px />
@@ -212,7 +214,7 @@ Todas estas preguntas (que eran muchas) las armamos en base a la intuición y a 
 Próxima slide
 ---
 
-## ¿Qué y cómo preguntamos sobre accesibilidad?
+## ¿Qué y cómo preguntamos sobre accesibilidad ahora?
 
 .center[
 <img src="img/preguntas-nuevas-1.png" alt ="Captura de pantalla de una pregunta de formulario de google de selección múltple. Pregunta: ¿Tienes alguna de las siguientes dificultades para participar de talleres en forma remota? Marca todas las que correspondan. Respuestas: Tengo dificultad para ver, aun con anteojos o lentes de contacto. Tengo dificultad para oír, aun con audífono. Tengo dificultades de movilidad que afectan mi interacción con dispositivos electrónicos como el celular o computadora. Tengo dificultad para permanecer delante de una pantalla más de 50 minutos. Tengo dificultad para comprender o recordar. Tengo dificultad para concentrarme. Tengo dificultad para comunicarme. No tengo ninguna de estas dificultades. Prefiero no decirlo. Otros." height="500" />
@@ -234,7 +236,7 @@ Somos conscientes que estas preguntas pueden ser información sensible por lo qu
 Próxima slide
 ---
 
-## ¿Qué y cómo preguntamos sobre accesibilidad?
+## ¿Cómo podemos facilitar tu participación?
 
 .center[
 <img src="img/preguntas-nuevas-2.png" alt ="Captura de pantalla de una pregunta de formulario de google de selección múltple. Pregunta: Si marcaste que tenés alguna dificultad, ¿cómo podemos facilitar tu participación? Marca todas las que correspondan.  Respuestas: No tengo ninguna dificultad. Con un lector de pantalla. Con materiales con alto contraste y letra grande. Usando comunicación por voz. Hablando claro, pausado, con buena calidad de audio. Con subtitulado. Usando lengua de señas. Usando comunicación por escrito. Con pausas frecuentes lejos de la pantalla. Prefiero no decirlo. Otros." height = "500" />
@@ -250,16 +252,16 @@ Además armamos un sistema mediante el cual si alguien marca alguna de las opcio
 Próxima slide
 ---
 
-## ¿Qué y cómo preguntamos sobre accesibilidad?
+## ¿Cómo podemos facilitar tu participación?
 
 .center[
-<img src="img/estadisticas-facilitacion.png" height=80% />
+<img src="img/estadisticas-facilitacion.png" height=80% alt="Grafico de barras mostrando la cantidad de respuestas a ¿Cómo podemos facilitar tu participación? Con pausas frecuentes: 24 personas, Hablando claro pausado: 20 personas, Usando comunicación por escrito: 9 personas, Con materiales con alto contraste y letra grande: 8, Usando comunicación por voz: 7 personas, Con subtitulado: 6 personas y Otros: 9 personas."/>
 ]
 
 
 ???
 
-Durante 2021, de las 540 personas que completaron nuestro formulario de registro, 87 respondieron a estas preguntas de manera afirmativa. Muchas de esas personas nos pidieron hacer pausas frecuentes lejos de la pantalla, hablar lento y claro o usar materiales con letra grande.
+Durante 2021, de las 540 personas que completaron nuestro formulario de registro, 87 respondieron a estas preguntas de manera afirmativa. Muchas de esas personas nos pidieron hacer pausas frecuentes lejos de la pantalla, hablar lento y claro o usar materiales con letra grande. Además nos comunicamos con 11 de esas personas para entender mejor lo que necesitaban y asegurar de estar preparados nosotros y los materiales. 
 
 Próxima slide
 ---
@@ -531,7 +533,7 @@ Próxima slide
 # Suelo fértil
 
 .center[
-<img src="img/hexs.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte hacia la izquierda."/>
+<img src="img/hexs.svg" align="center" width="900px" alt="Logos de comunidades que nos acompañaron, LatiR, The Carpentries, el programa de Instructores de Carpentries, R en Buenos Aires, R-Ladies y Women in Bioinformatics and Data Science LA y las organizaciones que nos apoyan, INTA, Code for Science & Society y la Gordon and Berry Moore Foundation"/>
 ]
 
 ???
@@ -542,12 +544,33 @@ Tampoco hubiera sido posible continuar sosteniendo nuestras actividades y cursos
 
 Próxima slide
 ---
+class: end-slide
 
-class: chapter-slide
+# Gracias!
+## Enseñando a enseñar sin perder a nadie en el camino
 
-# Gracias
+<img src="img/hex.png" align="right" width=200px alt="hex logo de metadocencia"/>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-## Imágenes de: pixabay.com/es/users/manfredsteger-1848497/
+
+`r icons::icon_style(icons::fontawesome$solid$globe, fill = "#485a6c")` metadocencia.org 
+</br>
+</br>
+.right[Las ilustraciones son de [Manfred Steger](https://pixabay.com/es/users/manfredsteger-1848497/)]
+
 
 ???
 
