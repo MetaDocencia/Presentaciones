@@ -266,7 +266,7 @@ Próxima slide
 
 ## Large font
 
-.center[![Gif de la opción de tamaño de letra en google slides agrandando la letra desde 18 hasta 37. El texto dice: "Hey! La letra es demasiado grande". Nunca nadie dijo.](img/agrandando-letra-2.gif)]
+.center[![Gif of the font size option in google slides enlarging the font from 18 to 37. The text says: "Hey! The font is too big". Nobody ever said.](img/agrandando-letra-2.gif)]
 
 ???
 
@@ -283,7 +283,7 @@ Próxima slide
 
 
 
-.center[![Imagen de dos paneles. Arriba, Geordi Laforge diciendo que no a un par de colores con bajo contraste. Abajo, Geordi Laforge le dice que sí a un par de colores con alto contraste.](img/contraste.jpg)]
+.center[![Two-panel image. Above, Geordi La Forge saying no to a low contrast color pair. Below, Geordi La Forge saying yes to a pair of high contrast colors.](img/contraste.jpg)]
 
 ???
 
@@ -305,7 +305,7 @@ Próxima slide
 ## Alternative text in figures and images
 
 .center[
-<img src="img/geordi-alternativo.png" alt = "Captura de pantalla de la imagen de Geordi Laforge anterior con su texto alternativo superpuesto." height = 500px />
+<img src="img/geordi-alternativo.png" alt = "Screenshot of Geordi Laforge's image above with his alternate text overlaid." height = 500px />
 ]
 
 
@@ -318,7 +318,7 @@ Próxima slide
 
 ## Frequent breaks
 .center[
-<img src="img/pausa.svg" height = 450px alt = "Libro acostado en una hamaca tomando sol."/>
+<img src="img/pausa.svg" height = 450px alt = "Illustration of a book lying in a hammock sunbathing."/>
 ]
 
 ???
@@ -331,7 +331,7 @@ Próxima slide
 ## Everyone participates in the way they prefer
 
 .center[
-<img src="img/medios-participacion.svg" height=500px alt = "Libro rodeado de distintos recursos: Texto, gráficos, audio, video."/>
+<img src="img/medios-participacion.svg" height=500px alt = "Illustration of a book surrounded by different resources: texts, graphics, audio, video, etc."/>
 ]
 
 ???
@@ -341,13 +341,13 @@ Cada quien participa de la manera que prefiera, algunas personas querrán usar e
 Próxima slide
 ---
 
-## Lo que nos falta
+## What we lack
 <br/>
 <br/>
 <br/>   
 
 .center[
-<img src="img/gente-afuera.svg" width=900px alt = "Cuatro libros sonrientes usando dispositivos sin problema y dos libros que se chocan entre ellos."/>
+<img src="img/gente-afuera.svg" width=900px alt = "Illustration of four smiling books using devices without problem and two other books bumping into each other."/>
 ]
 
 ???
@@ -356,7 +356,7 @@ Para nosotros, estar preparados para brindarle a les docentes que participan en 
 
 Próxima slide
 ---
-## Iterar para mejorar
+## Iterate to improve
 
 (algunan imagen de zoom con subtítulos)
 
