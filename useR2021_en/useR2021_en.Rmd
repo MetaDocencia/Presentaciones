@@ -382,7 +382,7 @@ Próxima slide
 ## Survey before you start
 
 .center[
-<img src="img/encuesta.svg" height=400px alt = "Dos libros haciendo un reportaje a un tercero."/>
+<img src="img/encuesta.svg" height=400px alt = "Illustration of two books interviewing another book."/>
 ]
 
 ???
@@ -399,7 +399,7 @@ Próxima slide
 ## Feedback after each workshop/course
 
 .center[
-<img src="img/feedback.svg" height=400px alt = "Dos libros uno al lado del otro. Uno con un cartel con un pulgar hacia abajo y otro con un cartel con un pulgar hacia arriba."/>
+<img src="img/feedback.svg" height=400px alt = "Illustration of two books. One holding a thumbs down sign and one holding a thumbs up sign."/>
 ]
 
 ???
@@ -424,10 +424,10 @@ Aprendemos más y mejor cuando nos sentimos bienvenides.
 Próxima slide
 ---
 
-## Construyendo un espacio amigable
+## Building a friendly space
 
 .center[
-<img src="img/comunidad.svg" align="center" height="450px" alt="Comunidad de libros todos diversos"/>
+<img src="img/comunidad.svg" align="center" height="450px" alt="Illustration of a community of diverse books."/>
 ]
 
 ???
@@ -442,7 +442,9 @@ Próxima slide
 ## Community Code of Conduct
 
 .center[
-<img src="img/la-gorra.svg" align="center" height="400px" alt="Libro vestido de policía al lado de un semáforo."/>
+<img src="img/la-gorra.svg" align="center" height="400px" alt="Illustration of a book dressed as a policeman next to a traffic light.
+
+"/>
 ]
 
 
@@ -473,7 +475,7 @@ Próxima slide
 .center[
 <img
     src="img/cc-compartir.svg"
-    alt="Tres cuadrados sonrientes agarran hojas de colores de una pila desordenada"
+    alt="Illustration of three smiling books grabbing colored sheets from a messy pile."
     height=400px/>
 ]
 
@@ -493,7 +495,7 @@ Próxima slide
 .center[
 <img
     src="img/cc-compartir-caja.svg"
-    alt="Un cuadrado agarrando hojas de colores de una caja ordenada." 
+    alt="Illustration of a book that takes colored sheets from a neat box." 
     height=400px/>
 ]
 
@@ -505,12 +507,12 @@ Por eso empezamos a trabajar en “MetaDocencia en una caja”, una guía integr
 
 Próxima slide
 ---
-## ¿Qué sigue a partir de ahora?
+## What's next?
 
 </br>
 </br>
 .left[
-<img src="img/futuro.svg" align="left" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte hacia la derecha."/>
+<img src="img/futuro.svg" align="left" width="700px" alt="Illustration of a book on a mountain looking at the horizon to the right."/>
 ]
 
 ???
@@ -547,7 +549,7 @@ class: chapter-slide
 
 # Thank you!
 
-## Imágenes de: pixabay.com/es/users/manfredsteger-1848497/
+## Images from pixabay.com/es/users/manfredsteger-1848497/
 
 ???
 
