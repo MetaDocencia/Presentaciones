@@ -44,7 +44,7 @@ Próxima slide
 ---
 class: inverse, center, middle
 
-![equipo de metadocencia](img/equipo.png)
+![MetaDocencia team](img/equipo.png)
 
 ???
 Empezamos siendo unas pocas personas en el equipo, hoy 21 personas hacen posible MetaDocencia junto a un gran equipo asesor formado por especialistas en educación y comunidades. 
@@ -85,7 +85,7 @@ Próxima slide
 #  Countries reached by MetaDocencia 
 
 .center[
-<img src="img/mapa_mundo.png" height = 500px/>
+<img src="img/mapa_mundo.png" height = 500px alt="Worlds map. We highlighted the countries reached by MetaDocencia."/>
 ]
 
 ???
@@ -200,7 +200,7 @@ Próxima slide
 ##  What and how do we ask about accessibility?
 
 .center[
-<img src="img/preguntas-viejas.png" alt ="Captura de pantalla de una pregunta de formulario de google de selección múltple. Pregunta: ¿Tenés alguna discapacidad o impedimento que afecte la forma en que estudiás o trabajás? ¿Necesitás requisitos especiales en tu entorno de aprendizaje o trabajo? Seleccioná todas las que correspondan. Respuestas: Discapacidad visual. Discapacidad auditiva. Impedimento de movilidad. Discapacidad de aprendizaje. Trastorno de salud mental. Prefiero no decirlo. No tengo discapacidad o impedimento. Otros:" height=450px />
+<img src="img/preguntas-viejas.png" alt ="Screenshot of a multiple-choice google form question. In this screenshot the text says the following: Question: Do you have any disability or impairment that affects the way you study or work? Do you need special requirements in your learning or work environment? Select all that apply. Answers: Visual impairment . Hearing impairment. Mobility impairment. Learning disability. Mental health disorder. Prefer not to say. I have no disability or impairment. Others:." height=450px />
 
 ]
 
@@ -215,7 +215,7 @@ Próxima slide
 ## What and how do we ask about accessibility?
 
 .center[
-<img src="img/preguntas-nuevas-1.png" alt ="Captura de pantalla de una pregunta de formulario de google de selección múltple. Pregunta: ¿Tienes alguna de las siguientes dificultades para participar de talleres en forma remota? Marca todas las que correspondan. Respuestas: Tengo dificultad para ver, aun con anteojos o lentes de contacto. Tengo dificultad para oír, aun con audífono. Tengo dificultades de movilidad que afectan mi interacción con dispositivos electrónicos como el celular o computadora. Tengo dificultad para permanecer delante de una pantalla más de 50 minutos. Tengo dificultad para comprender o recordar. Tengo dificultad para concentrarme. Tengo dificultad para comunicarme. No tengo ninguna de estas dificultades. Prefiero no decirlo. Otros." height="500" />
+<img src="img/preguntas-nuevas-1.png" alt ="Screenshot of a multiple-choice google form question. In this screenshot, the text says the following: Question: Do you have any of the following difficulties to participate in workshops remotely? Check all that apply. Answers: I have trouble seeing, even with glasses or contact lenses. I have difficulty hearing, even with a hearing aid. I have mobility difficulties that affect my interaction with electronic devices such as cell phones or computers. I have difficulty staying in front of a screen for more than 50 minutes. I have difficulty understanding or remembering. I have difficulty concentrating. I have difficulty communicating. I do not have any of these difficulties. I prefer not to say. Others:." height="500" />
 ]
 
 
@@ -237,7 +237,7 @@ Próxima slide
 ##  What and how do we ask about accessibility?
 
 .center[
-<img src="img/preguntas-nuevas-2.png" alt ="Captura de pantalla de una pregunta de formulario de google de selección múltple. Pregunta: Si marcaste que tenés alguna dificultad, ¿cómo podemos facilitar tu participación? Marca todas las que correspondan.  Respuestas: No tengo ninguna dificultad. Con un lector de pantalla. Con materiales con alto contraste y letra grande. Usando comunicación por voz. Hablando claro, pausado, con buena calidad de audio. Con subtitulado. Usando lengua de señas. Usando comunicación por escrito. Con pausas frecuentes lejos de la pantalla. Prefiero no decirlo. Otros." height = "500" />
+<img src="img/preguntas-nuevas-2.png" alt ="Screenshot of a multiple-choice google form question. In this screenshot, the text says the following: Question: If you marked that you have any difficulties, how can we facilitate your participation? Check all that apply. Answers: I have no difficulty. With a screen reader. With high contrast materials and large print. Using voice communication. Speaking clearly, slowly, with good audio quality. With subtitles. Using sign language. Using written communication. With frequent pauses away from the screen. I prefer not to say. Others:." height = "500" />
 ]
 
 
@@ -253,7 +253,7 @@ Próxima slide
 ##  What and how do we ask about accessibility?
 
 .center[
-<img src="img/estadisticas-facilitacion.png" height=80% />
+<img src="img/estadisticas-facilitacion.png" height=80% alt="Shows the results of the multiple-choice google form questions. "/>
 ]
 
 
@@ -264,7 +264,7 @@ Durante 2021, de las 540 personas que completaron nuestro formulario de registro
 Próxima slide
 ---
 
-## Letra grande
+## Large font
 
 .center[![Gif de la opción de tamaño de letra en google slides agrandando la letra desde 18 hasta 37. El texto dice: "Hey! La letra es demasiado grande". Nunca nadie dijo.](img/agrandando-letra-2.gif)]
 
@@ -279,7 +279,7 @@ Letra grande, nunca nadie se quejó de que la letra era demasiado grande.
 Próxima slide
 ---
 
-## Buen contraste
+## Good contrast
 
 
 
@@ -293,7 +293,7 @@ Al chequear el contraste de algunas de nuestras presentaciones nos dimos cuenta 
 Próxima slide
 ---
 
-## Evitar animaciones y fuentes de adorno, no importa que se vea lindo si no es accesible. 
+## Avoid animations and ornate fonts, it doesn't matter if it looks cute if it's not accessible
 
 ???
 Evitar animaciones y fuentes de adorno, no importa que se vea lindo si no es accesible. 
@@ -302,7 +302,7 @@ Próxima slide
 ---
 
 
-## Texto alternativo en figuras e imágenes 
+## Alternative text in figures and images
 
 .center[
 <img src="img/geordi-alternativo.png" alt = "Captura de pantalla de la imagen de Geordi Laforge anterior con su texto alternativo superpuesto." height = 500px />
@@ -316,7 +316,7 @@ Texto alternativo en las figuras e imágenes que incluimos en nuestras presentac
 Próxima slide
 ---
 
-## Pausas frecuentes
+## Frequent breaks
 .center[
 <img src="img/pausa.svg" height = 450px alt = "Libro acostado en una hamaca tomando sol."/>
 ]
@@ -328,7 +328,7 @@ Pausas frecuentes, porque ni docentes ni estudiantes puede estar concentrados et
 Próxima slide
 ---
 
-## Cada quien participa de la manera que prefiera
+## Everyone participates in the way they prefer
 
 .center[
 <img src="img/medios-participacion.svg" height=500px alt = "Libro rodeado de distintos recursos: Texto, gráficos, audio, video."/>
@@ -370,7 +370,7 @@ Próxima slide
 
 class: chapter-slide
 
-# No asumir, preguntar
+# Don't assume, ask
 
 ???
 
@@ -379,7 +379,7 @@ Otra de las ideas que nos acompaña desde el principio es:
 
 Próxima slide
 ---
-## Encuesta antes de empezar 
+## Survey before you start
 
 .center[
 <img src="img/encuesta.svg" height=400px alt = "Dos libros haciendo un reportaje a un tercero."/>
@@ -396,7 +396,7 @@ Por supuesto, si vamos a hacer preguntas, tenemos que leer las respuestas. Antes
 Próxima slide
 ---
 
-## Feedback luego de cada clase
+## Feedback after each workshop/course
 
 .center[
 <img src="img/feedback.svg" height=400px alt = "Dos libros uno al lado del otro. Uno con un cartel con un pulgar hacia abajo y otro con un cartel con un pulgar hacia arriba."/>
@@ -415,7 +415,7 @@ Próxima slide
 
 class: chapter-slide
 
-# Aprendemos más y mejor cuando nos sentimos bienvenides.
+# We learn more and better when we feel welcome
 
 ???
 
@@ -439,7 +439,7 @@ En Argentina y Latinoamérica no es común escuchar hablar de un código de cond
 Próxima slide
 ---
 
-## Código de conducta en comunidad 
+## Community Code of Conduct
 
 .center[
 <img src="img/la-gorra.svg" align="center" height="400px" alt="Libro vestido de policía al lado de un semáforo."/>
@@ -461,14 +461,14 @@ Próxima slide
 
 class: chapter-slide
 
-# Materiales abiertos para todas las personas
+# Open materials for everyone
 
 ???
 El último principio que queríamos compartir con ustedes es este: materiales abiertos para todas las personas. 
 
 Próxima slide
 ---
-## Producir, compartir, reutilizar
+## Produce, share, reuse
 
 .center[
 <img
@@ -488,7 +488,7 @@ Que todo lo que hacemos sea gratuito no es casualidad. Es parte de nuestro compr
 Próxima slide
 ---
 
-## MetaDocencia en una caja
+## Metadocencia in a box
 
 .center[
 <img
@@ -528,7 +528,7 @@ Y por supuesto, seguiremos aprendiendo en comunidad. Además de seguir dictando 
 Próxima slide
 ---
 
-# Suelo fértil
+# Fertile soil
 
 .center[
 <img src="img/hexs.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte hacia la izquierda."/>
@@ -545,7 +545,7 @@ Próxima slide
 
 class: chapter-slide
 
-# Gracias
+# Thank you!
 
 ## Imágenes de: pixabay.com/es/users/manfredsteger-1848497/
 
