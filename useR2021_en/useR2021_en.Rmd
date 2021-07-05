@@ -363,7 +363,10 @@ Next slide
 ---
 ## Iterate to improve
 
-(algunan imagen de zoom con subtítulos)
+.center[
+<img src="img/subtitulos-zoom.png" alt="Screenshot of a zoom meeting with Paola, Elio, Iván and Mariela with a subtitle that reads 'I mean getting the gospel and plan is exciting that is a month.'"/>
+]
+
 
 ???
 We know that we are still missing some things. For example, although we tested and are ready to use subtitles in our classes, they are not manual transcriptions but are generated automatically with a free service, which in a zoom room only works well to subtitle the person who is giving the class but not for the rest of the participants. We definitely need to prepare ourselves more to speak slowly and modulate what we say so that both automatic subtitles and people with hearing difficulties can understand us well.
