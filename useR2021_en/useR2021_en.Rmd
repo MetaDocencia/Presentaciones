@@ -27,19 +27,19 @@ output:
 
 
 ???
-Pao: Hola! Mi nombre es Paola
-Ivan: Yo soy Ivan
-Elio: y yo soy Elio
-Pao de nuevo: somos parte del equipo de MetaDocencia. Queremos compartir con ustedes nuestra experiencia enseñando a enseñar sin perder a nadie en el camino. 
-Próxima slide
+Pao: Hi, my name is Paola!
+Ivan: I am Ivan
+Elio: and I'm Elio
+Pao again: we are part of the MetaDocencia team. We want to share with you our experience teaching how to teach without losing anyone along the way. 
+Next slide
 
 
-Hace un poco más de un año, cuando la pandemia era una noción distante y les docentes en Argentina se preparaban para empezar el año de clases como cualquier otro año, todas las actividades presenciales, incluyendo las clases, se suspendieron. De un día para el otro. En esa situación, nos preguntamos qué podíamos hacer para ayudar a otras personas y poner en práctica lo que sabíamos hacer en parte gracias a organizaciones como The Carpentries y RStudio. Unos pocos días después MetaDocencia comenzó a tomar forma.
+A little over a year ago, when the pandemic was a distant notion and teachers in Argentina were preparing to start the school year like any other year, all face-to-face activities, including classes, were suspended. From one day to the next. In that situation, we asked ourselves what we could do to help other people and put into practice what we knew how to do partly thanks to organisations like The Carpentries and RStudio. A few days later MetaDocencia began to take shape.
 
-MetaDocencia es una comunidad inclusiva y colaborativa que busca mejorar la educación potenciando docentes de países menos favorecidos. Nuestra idea inicial era compartir consejos y herramientas prácticas que pudieran aplicarse de manera inmediata.
+MetaDocencia is an inclusive and collaborative community that seeks to improve education by empowering teachers in disadvantaged countries. Our initial idea was to share tips and practical tools that could be applied immediately.
 
-Pero luego nos dimos cuenta que era una oportunidad para abrir una discusión más grande: ¿Cómo enseñamos? ¿Cómo podemos aprender a enseñar en comunidad? Y así surgió el nombre: “Meta” “Docencia” porque nos proponemos enseñar a enseñar con la mirada puesta en nuestros estudiantes, al mismo tiempo docentes, aprendiendo de la experiencia de cada une. 
-Próxima slide
+But then we realised that it was an opportunity to open up a larger discussion: How do we teach? How can we learn to teach in community? And that's how we came up with the name: "Meta" "Docencia" because we aim to teach how to teach with an eye on our students, at the same time teachers, learning from each other's experience. 
+Next slide
 
 ---
 #### The team
@@ -51,11 +51,12 @@ Próxima slide
 
 
 ???
-Empezamos siendo unas pocas personas en el equipo, hoy 21 personas hacen posible MetaDocencia junto a un gran equipo asesor formado por especialistas en educación y comunidades. 
+We started with just a few people in the team, today 21 people make MetaDocencia possible together with a great advisory team of education and community specialists. 
 
-Venimos de distintos lugares, algunes del mundo de R, otres de Python, varios docentes e interesades en educación. Vivimos en diferentes partes de Argentina y de otros países, hablamos Español, algunes Portugués. Nos une la diversidad, las ganas de enseñar y de aprender en comunidad. 
+We come from different places, some from the R world, others from Python, several teachers and interested in education. We live in different parts of Argentina and other countries, we speak Spanish, some Portuguese. We are united by diversity, the desire to teach and learn in community. 
 
-Próxima slide
+Next slide
+
 ---
 
 ## What did we do until today?
@@ -71,19 +72,20 @@ Próxima slide
     * `r emo::ji("teacher")` {Learnr} Workshop
 
 ???
-¿Qué hicimos hasta hoy?
-Desarrollamos y adaptamos 4 talleres
+What have we done so far?
+We developed and adapted 4 workshops
 
-Primero, nuestro “Introducción al ABC para enseñar online” una guía rápida de herramientas para aplicar en el aula, a veces virtual, a veces en persona.
+First, our "Introduction to the ABC's of teaching online" a quick guide to tools to apply in the classroom, sometimes virtual, sometimes in person.
 
-En Cómo enseñar a programar nos sacamos las ganas de charlar sobre como enseñamos programación y nuestra experiencia aplicando los consejos del libro Teaching Tech Together. 
-El Taller de Zoom.
+In How to Teach Programming we took the time to talk about how we teach programming and our experience applying the tips from the Teaching Tech Together book. 
+The Zoom Workshop.
 
-y el Taller de {learnr} para aprender a hacer tutoriales interactivos también se sumaron a la caja de herramientas prácticas.
+Workshop and the {learnr} Workshop to learn how to make interactive tutorials also added to the practical toolbox.
 
-Quienes participan de los cursos no sólo escuchan nuestros consejos sino que los viven en carne propia. Por ejemplo, en cada encuentro discutimos sobre la importancia de dar y recibir buen feedback como una manera de mejorar las clases. Por eso al final de cada taller enseñamos con el ejemplo y les pedimos a cada participante que responda nuestra encuesta anónima con algo que tendríamos que mantener y algo que podríamos mejorar. En el taller de Zoom les invitamos a pasarse al otro lado y tomar las riendas de la reunión para experimentar con la herramienta mientras pensamos cómo podemos sacarle el jugo en nuestras clases. En definitiva, no sólo invitamos a les participantes a escuchar lo que enseñamos, sino también a prestar atención a cómo lo enseñamos y discutir sobre la mejor manera de hacerlo. 
+Those who participate in the courses not only listen to our advice but also experience it first-hand. For example, at each meeting we discuss the importance of giving and receiving good feedback as a way to improve the classes. So at the end of each workshop we teach by example and ask each participant to answer our anonymous survey with one thing we should keep and one thing we could improve. In the Zoom workshop we invite them to step over to the other side and take the reins of the meeting to experiment with the tool while we think about how we can make the most of it in our classes. In short, we not only invite participants to listen to what we teach, but also to pay attention to how we teach it and discuss how best to do it. 
 
-Próxima slide
+Next slide
+
 ---
 
 #  Countries reached by MetaDocencia 
@@ -93,10 +95,10 @@ Próxima slide
 ]
 
 ???
-Hasta hoy, 870 estudiantes / docentes participaron en nuestros cursos. Enseñamos 55 ediciones de la Introducción al ABC y 13 ediciones de nuestros otros talleres. En total, llegamos a más de 1200 educadores de habla hispana en 30 países distintos. 
-Tuvimos participantes de muchas áreas de educación, aunque en su mayoría vienen de las ciencias exactas. Fue sorprendente encontrarnos con muchas personas que enseñan fuera de instituciones educativas, dando clases de música o yoga!
+To date, 870 students/teachers have participated in our courses. We taught 55 editions of the Introduction to ABC and 13 editions of our other workshops. In total, we reached more than 1200 Spanish-speaking educators in 30 different countries. 
+We had participants from many areas of education, though mostly from the exact sciences. It was surprising to meet many people who teach outside of educational institutions, teaching music or yoga!
 
-Próxima slide
+Next slide
 ---
 
 ## Why MetaDocencia?
@@ -115,17 +117,17 @@ Próxima slide
 
 ???
 
-Habiendo tantos recursos abiertos en educación, y comunidades alrededor del mundo, tal vez se estén preguntado ¿para qué se necesita MetaDocencia?
+With so many open education resources and communities around the world, you may be wondering why MetaDocencia is needed.
 
-En primer lugar la mayoría de los recursos y comunidades sobre educación online hablan inglés y en Argentina y muchos países de Latinoamérica, el inglés es una gran barrera para el acceso al conocimiento. En Argentina, menos de la mitad de la población tiene un mínimo manejo del inglés y de los que saben, la enorme mayoría saben muy poco. Por lo tanto, está más que claro que aún el mejor recurso, es inaccesible para una gran parte de la población de educadores si está en inglés. 
+First of all, most online education resources and communities speak English, and in Argentina and many Latin American countries, English is a major barrier to accessing knowledge. In Argentina, less than half of the population has a minimal command of English and of those who do, the vast majority know very little. Therefore, it is more than clear that even the best resource is inaccessible to a large part of the educator population if it is in English. 
 
-Pero aún las traducciones, sean hechas con una computadora o un ser humano no son suficientes. Los recursos originalmente anglos, se basan en suposiciones muy fuertes sobre la cultura, el acceso a determinados recursos y la familiaridad con tecnologías como zoom, slack o google docs. Si tenemos en cuenta la brecha digital, esto no siempre es aplicable a los diversos contextos que existen en América Latina . 
+But even translations, whether done with a computer or a human being, are not enough. Originally English resources are based on very strong assumptions about culture, access to certain resources and familiarity with technologies such as zoom, slack or google docs. Considering the digital divide, this is not always applicable to the diverse contexts that exist in Latin America. 
 
-Finalmente, la idea de “comunidades de práctica” es bastante nueva en nuestra región. No existe la costumbre de compartir los materiales que docentes generan para sus clases, a veces pasa todo lo contrario. Las instituciones tampoco incentivan estas prácticas ni si quiera internamente. Por eso tomamos prestado lo que aprendimos gracias a la comunidad de R en general y de R-Ladies en particular para darle forma a MetaDocencia.
+Finally, the idea of "communities of practice" is quite new in our region. There is no habit of sharing the materials that teachers generate for their classes; sometimes the opposite is true. Nor do institutions encourage these practices, even internally. That's why we borrowed what we learned from the R community in general and from R-Ladies in particular to shape MetaDocencia.
 
-En definitiva nos encontramos con los y las docentes de America Latina, donde están en su contexto y realidades. 
+Ultimately we met with teachers in Latin America, where they are in their context and realities. 
 
-Próxima slide
+Next slide
 ---
 
 </br>
@@ -139,9 +141,9 @@ Próxima slide
 
 ???
 
-Hasta acá les contamos qué es MetaDocencia. A lo largo de estos meses, aprendimos muchas cosas: de la experiencia, del feedback de nuestros participantes, de otras comunidades. Otras cosas, ideas y valores , nos acompañan desde el primer día. 
+So far we have told you what MetaDocencia is. Throughout these months, we have learned many things: from the experience, from the feedback of our participants, from other communities. Other things, ideas and values, have been with us since day one. 
 
-Próxima slide
+Next slide
 ---
 class: chapter-slide
 
@@ -149,9 +151,9 @@ class: chapter-slide
 
 ???
 
-La primera idea que queremos compartir es: “La accesibilidad ayuda a todas las personas.”
+The first idea we want to share with you is: "Accessibility helps everyone".
 
-Próxima slide
+Next slide
 ---
 
 .center[
@@ -160,11 +162,11 @@ Próxima slide
 
 ???
 
-Desde el inicio nos propusimos generar materiales que fueran accesibles, empezando con lo que teníamos a mano en ese momento: incluir notas de orador en nuestras presentaciones. Queríamos que personas con dificultad visual pudieran aprovechar los materiales de la misma manera. Pero también pensamos en quienes no contaban con el tiempo o una buena conexión a internet para hacer el curso de manera sincrónica, quienes se encontraban con la presentación y necesitaban una guía para recorrerla. 
+From the beginning we set out to generate materials that were accessible, starting with what we had at hand at the time: including speaker's notes in our presentations. We wanted people with visual impairments to be able to use the materials in the same way. But we also thought about those who didn't have the time or a good internet connection to do the course synchronously, who came across the presentation and needed a guide to walk them through it. 
 
-Luego descubrimos que esas notas del orador, escritas con mucho detalle y dedicación, nos servían para que las nuevas personas del equipo se familiarizaran con el curso y los materiales y se pudieran preparar para enseñarlo. 
+We then found that those speaker notes, written with great detail and dedication, helped us to familiarise the new people on the team with the course and the materials and prepare them to teach it. 
 
-Próxima slide
+Next slide
 ---
 
 .center[
@@ -173,15 +175,15 @@ Próxima slide
 
 ???
 
-Pero las ganas y buena voluntad no son suficientes. Necesitábamos seguir aprendiendo sobre accesibilidad, por ejemplo ampliando el concepto y pensando en otras discapacidades además de la visual. Así nació el equipo de Accesibilidad de MetaDocencia, gracias al apoyo de la  Code for Science and Society que nos motivó y dio el apoyo necesario para que algunas personas del equipo pudieran dedicar tiempo a este tema. 
+But desire and good will are not enough. We needed to continue learning about accessibility, for example by broadening the concept and thinking about other disabilities in addition to visual impairment. This is how the MetaDocencia Accessibility team was born, thanks to the support of the Code for Science and Society, which motivated us and gave us the necessary support so that some members of the team could dedicate time to this topic. 
 
-En Latinoamérica más del 15% de la población experimenta algún tipo de discapacidad, lo que genera situaciones de desigualdad en el acceso al mercado laboral como también a la educación y salud y es más probable que tengan un nivel socioeconómico muy bajo. Y toda esta situación se ve especialmente acentuada por la pandemia. 
+In Latin America more than 15% of the population experiences some kind of disability, which generates situations of inequality in access to the labour market as well as to education and health, and they are more likely to have a very low socio-economic level. And this situation is especially accentuated by the pandemic. 
 
-Todas estas razones nos hicieron pensar en que las herramientas que ofrecíamos debían aspirar a incluir a la mayor cantidad de personas posibles. 
+All these reasons made us think that the tools we offered should aim to include as many people as possible. 
 
-La accesibilidad es algo universal. Implica planear, proyectar, construir, y conservar nuestros cursos de modo que tenga en cuenta las necesidades y los requerimientos de todas las personas, sea cual sea su edad, condición o capacidad. En el contexto de MetaDocencia, era necesario diseñar el material pensando en diferentes tipos de estudiantes, sus necesidades y / o dificultades para paulatinamente disminuir las barreras de acceso a nuestros cursos y materiales.
+Accessibility is universal. It means planning, designing, building, and maintaining our courses in a way that takes into account the needs and requirements of all people, whatever their age, status or ability. In the context of MetaDocencia, it was necessary to design the material with different types of learners, their needs and/or difficulties in mind in order to gradually lower the barriers of access to our courses and materials.
 
-Próxima slide
+Next slide
 ---
 
 .center[
@@ -189,15 +191,15 @@ Próxima slide
 ]
 
 ???
-La accesibilidad debe ser pensada desde el momento de la planificación de la actividad. Una cadena de accesibilidad garantiza la continuidad en el acceso a los espacios que permite conectar lugares y servicios, sin barreras. En nuestro caso, conectar los pasos para sumarse a la comunidad o participar en un curso. Implica la adecuación del entorno donde desarrollamos nuestras actividades y cómo lo hacemos, ya sea en persona o virtual. 
+Accessibility must be considered from the moment the activity is planned. A chain of accessibility guarantees continuity in access to spaces that allows connecting places and services, without barriers. In our case, connecting the steps to join the community or participate in a course. It involves adapting the environment where we carry out our activities and how we do it, whether in person or virtually. 
 
-En MetaDocencia nos esforzamos para garantizar la accesibilidad desde el inicio cuando una persona se registra y responde preguntas que nos orientan para conocerla mejor y brindarle la mejor experiencia posible. 
+At MetaDocencia we strive to ensure accessibility from the very beginning when a person registers and answers questions that guide us to get to know them better and provide them with the best possible experience. 
 
-Una de las primeras cosas que tuvimos que arreglar fue la de agregar texto alternativo a todas las imágenes de nuestras presentaciones. También vimos que el color de fondo que habíamos elegido para algunas diapositivas no tenía suficiente contraste con el color de las letras. Ahora chequeamos que todos nuestros nuestros materiales sigan las recomendaciones de tamaño y contraste de las Directrices de Accesibilidad para el Contenido Web.
+One of the first things we had to fix was to add alternative text to all the images in our presentations. We also noticed that the background colour we had chosen for some slides did not have enough contrast with the colour of the letters. We now check that all our materials follow the size and contrast recommendations of the Web Content Accessibility Guidelines.
 
-Esto también aplica a nuestras publicaciones en redes sociales y nuestra web, donde publicamos imágenes con buen contraste y texto alternativo.
+This also applies to our social media posts and our website, where we publish images with good contrast and alternative text.
 
-Próxima slide
+Next slide
 ---
 
 
@@ -209,11 +211,11 @@ Próxima slide
 ]
 
 ???
-En nuestro primer formulario de registro, allá por marzo de 2020,  ya había preguntas sobre distintos aspectos de accesibilidad. Preguntábamos sobre conocimiento de distintas herramientas como google docs, zoom, slack, sobre la calidad del acceso a internet y disponibilidad de materiales como micrófono, computadora que ante bien, familiaridad con el uso del teclado y luego sobre discapacidades que (visuales, auditivas, aprendizaje, etc…). 
+In our first registration form, back in March 2020, there were already questions about different aspects of accessibility. We asked about knowledge of different tools such as google docs, zoom, slack, about the quality of internet access and availability of materials such as microphone, computer that works well, familiarity with the use of the keyboard and then about disabilities (visual, hearing, learning, etc...). 
 
-Todas estas preguntas (que eran muchas) las armamos en base a la intuición y a medida que veíamos las respuestas nos dimos cuenta que necesitaban un cambio. Algunas preguntas daban respuestas útiles y accionables. Sí sabíamos que alguien nunca había usado zoom, sabíamos que teníamos que hacer más hincapié al mostrar cómo íbamos trabajar en zoom al comienzo del curso. Pero otras eran más difíciles de interpretar. ¿Qué hacíamos si alguien decía que tenía una “discapacidad visual”? ¿Teníamos que basarnos sólo en el audio o con usar letra grande y con alto contraste era suficiente? 
+All these questions (which were many) we put together based on intuition and as we looked at the answers we realised that they needed to be changed. Some questions gave useful and actionable answers. If we knew that someone had never used zoom, we knew we needed to put more emphasis on showing how we were going to work on zoom at the beginning of the course. But others were more difficult to interpret - what did we do if someone said they had a "visual impairment", did we have to rely on audio alone or was using large, high contrast print enough? 
 
-Próxima slide
+Next slide
 ---
 
 ## What and how do we ask about accesibility now?
@@ -225,18 +227,18 @@ Próxima slide
 
 
 ???
-Una de las primeras tareas del equipo de accesibilidad fue la de rediseñar estas preguntas. 
+One of the first tasks of the accessibility team was to redesign these questions. 
 
-Tomamos como referencia las preguntas diseñadas por el Grupo de Washington sobre Estadísticas de la Discapacidad para obtener información concreta, unificada y probada sobre las personas, docentes de Latino América que les interesa participar en nuestros cursos. 
+We took as a reference the questions designed by the Washington Group on Disability Statistics to obtain concrete, unified and tested information about the people, teachers in Latin America who are interested in participating in our courses. 
 
-Las preguntas sobre discapacidad ahora son menos, pero más informativas. 
+The disability questions are now fewer, but more informative. 
 
-¿Tienes alguna de las siguientes dificultades para participar de talleres en forma remota? 
-Dificultad para ver, para oír, dificultad para interactuar con dispositivos o permanecer más de 50 minutos delante de una pantalla.
+Do you have any of the following difficulties in participating in workshops remotely? 
+Difficulty seeing, difficulty hearing, difficulty interacting with devices or staying more than 50 minutes in front of a screen.
 
-Somos conscientes que estas preguntas pueden ser información sensible por lo que también les damos la posibilidad de no no responder. Y siempre tenemos en cuenta que las personas responderan de acuerdo a la percepción que tienen sobre si mismas. 
+We are aware that these questions may be sensitive information so we also give you the possibility not to answer. And we always keep in mind that people will answer according to their perception of themselves. 
 
-Próxima slide
+Next slide
 ---
 
 ## How can we facilitate your participation?
@@ -248,11 +250,11 @@ Próxima slide
 
 ???
 
-Pero además les preguntamos cómo podemos facilitar su participación y ofrecemos diversas soluciones relacionadas con el tipo de dificultad, lo cual nos permite tener una información clara y accionable sobre cómo adaptar nuestra clase si fuera necesario.
+But we also ask them how we can facilitate their participation and offer various solutions related to the type of difficulty, which allows us to have clear and actionable information on how to adapt our class if necessary.
 
-Además armamos un sistema mediante el cual si alguien marca alguna de las opciones de accesibilidad, inmediatamente se les envía un mail al equipo de accesibilidad para que revisen el caso. El equipo revisa las respuestas y si es necesario se pone en contacto con la persona para decidir en conjunto si es necesario hacer algún cambio a nuestros materiales o a nuestro curso para que esa persona pueda participar. 
+We also set up a system whereby if someone checks any of the accessibility options, they are immediately emailed to the accessibility team to review the case. The team reviews the responses and if necessary contacts the person to decide together if any changes need to be made to our materials or our course so that the person can participate. 
 
-Próxima slide
+Next slide
 ---
 
 ##  How can we facilitate your participation?
@@ -264,9 +266,9 @@ Próxima slide
 
 ???
 
-Durante 2021, de las 540 personas que completaron nuestro formulario de registro, 87 respondieron a estas preguntas de manera afirmativa. Muchas de esas personas nos pidieron hacer pausas frecuentes lejos de la pantalla, hablar lento y claro o usar materiales con letra grande. Además nos comunicamos con 11 de esas personas para entender mejor lo que necesitaban y asegurar de estar preparados nosotros y los materiales. 
+During 2021, of the 540 people who completed our registration form, 87 responded to these questions in the affirmative. Many of these people asked us to pause frequently away from the screen, speak slowly and clearly or use large print materials. We also communicated with 11 of those people to better understand what they needed and to ensure that we and the materials were prepared. 
 
-Próxima slide
+Next slide
 ---
 
 ## Large font
@@ -275,13 +277,13 @@ Próxima slide
 
 ???
 
-La buena noticia es que tenemos en cuenta todos estos pedidos desde el momento que pensamos nuestros cursos y hemos ido implementando mejoras en todos los talleres y materiales. Definimos criterios de base que tienen en cuenta las necesidades de una gran parte de las personas que se acercan a MetaDocencia.
+The good news is that we have taken all these requests into account from the moment we designed our courses and we have been implementing improvements in all the workshops and materials. We define basic criteria that take into account the needs of a large part of the people who come to MetaDocencia.
 
 
-Para nuestras presentaciones:
-Letra grande, nunca nadie se quejó de que la letra era demasiado grande.
+For our presentations:
+Large print, no one ever complained that the font was too big.
 
-Próxima slide
+Next slide
 ---
 
 ## High contrast
@@ -290,18 +292,18 @@ Próxima slide
 
 ???
 
-Buen contraste entre las letras y el fondo, aun si eso implica cambiar nuestros colores favoritos.
-Al chequear el contraste de algunas de nuestras presentaciones nos dimos cuenta que no cumplían con los estándares mínimos. 
+Good contrast between letters and background, even if it means changing our favourite colours.
+When we checked the contrast of some of our presentations we found that they did not meet the minimum standards. 
 
-Próxima slide
+Next slide
 ---
 
 ## Avoid animations and fancy fonts, it doesn't matter if it looks cute if it's not accessible
 
 ???
-Evitar animaciones y fuentes de adorno, no importa que se vea lindo si no es accesible. 
+Avoid animations and fancy fonts, it doesn't matter if it looks pretty if it's not accessible. 
 
-Próxima slide
+Next slide
 ---
 
 
@@ -314,9 +316,9 @@ Próxima slide
 
 ???
 
-Texto alternativo en las figuras e imágenes que incluimos en nuestras presentaciones y redes sociales, para que nadie se pierda ningún detalle.
+Alternative text in the figures and images that we include in our presentations and social networks, so that no one misses any detail.
 
-Próxima slide
+Next slide
 ---
 
 ## Frequent breaks
@@ -325,10 +327,10 @@ Próxima slide
 ]
 
 ???
-Para nuestros cursos:
-Pausas frecuentes, porque ni docentes ni estudiantes puede estar concentrados eternamente frente a la pantalla
+For our courses:
+Frequent breaks, because neither teachers nor students can concentrate forever in front of the screen.
 
-Próxima slide
+Next slide
 ---
 
 ## Everyone participates in their own way
@@ -339,9 +341,9 @@ Próxima slide
 
 ???
 
-Cada quien participa de la manera que prefiera, algunas personas querrán usar el micrófono, otras escribir en el chat, valoramos los aportes de todas las personas de igual manera. 
+Everyone participates in the way they prefer, some people will want to use the microphone, others will want to write in the chat, we value everyone's input equally. 
 
-Próxima slide
+Next slide
 ---
 
 ## What's still missing
@@ -355,20 +357,20 @@ Próxima slide
 
 ???
 
-Para nosotros, estar preparados para brindarle a les docentes que participan en nuestros cursos la mejor experiencia es muy importante. Hasta ahora pudimos cubrir las necesidades de todas las personas que se registraron. Eso por un lado significa que nuestros esfuerzos valen la pena, pero por el otro, también significa que no estamos llegando a personas con otras necesidades, tal vez porque en el mundo de la enseñanza, las personas con discapacidades no encuentran un espacio accesible. 
+For us, it is very important to be prepared to give the teachers who participate in our courses the best experience. So far we were able to meet the needs of all the people who registered. That on the one hand means that our efforts are worthwhile, but on the other hand, it also means that we are not reaching people with other needs, perhaps because in the teaching world, people with disabilities do not find an accessible space. 
 
-Próxima slide
+Next slide
 ---
 ## Iterate to improve
 
 (algunan imagen de zoom con subtítulos)
 
 ???
-Sabemos que nos faltan algunas cosas todavía. Por ejemplo, si bien probamos y y estamos listes para usar subtítulos en nuestras clases, éstos no son transcripciones manuales sino que son generadas automáticamente con un servicio gratuito, que en una sala de zoom sólo funciona bien para subtitular a la persona que está dando a clase pero no para el resto de los participantes. Definitivamente necesitamos prepararnos más para hablar pausado y modular lo que decimos para tanto los subtítulos automáticos como personas con dificultades auditivas nos puedan entender bien.
+We know that we are still missing some things. For example, although we tested and are ready to use subtitles in our classes, they are not manual transcriptions but are generated automatically with a free service, which in a zoom room only works well to subtitle the person who is giving the class but not for the rest of the participants. We definitely need to prepare ourselves more to speak slowly and modulate what we say so that both automatic subtitles and people with hearing difficulties can understand us well.
 
-En nuestra lista también está mejorar los subtítulos de los videos que subimos a YouTube, por ahora son creados automáticamente y dejan mucho que desear. O migrar nuestra comunidad en Slack a otra plataforma más accesible para personas que usan lectores de pantalla.
+Also on our list is to improve the subtitles of the videos we upload to YouTube, for now they are created automatically and leave a lot to be desired. Or migrating our Slack community to another platform that is more accessible for people who use screen readers.
 
-Próxima slide
+Next slide
 ---
 
 class: chapter-slide
@@ -377,10 +379,10 @@ class: chapter-slide
 
 ???
 
-Otra de las ideas que nos acompaña desde el principio es: 
-“No asumir, preguntar”. No asumir que nuestros participantes tienen acceso a una buena conexión a internet o que saben usar determinada herramienta.
+Another idea that has been with us from the beginning is: 
+"Don't assume, ask". Don't assume that our participants have access to a good internet connection or that they know how to use a certain tool.
 
-Próxima slide
+Next slide
 ---
 ## Surveys before
 
@@ -390,13 +392,13 @@ Próxima slide
 
 ???
 
-Desde el primero día la experiencia de les interesades en participar empieza con un formulario que nos permite conocerles. ¿Cuál es su experiencia como docentes? ¿De qué tamaño son sus clases? ¿Tienen experiencia usando Zoom?
+From day one, the experience of those interested in participating begins with a form that allows us to get to know you: What is your experience as a teacher? How big are your classes? Do you have experience using Zoom?
 
-Y tal vez a un año y medio de haber comenzado la pandemia esta pregunta puede parecer redundante pero todvía quedan alguna almas inocentes que no fueron corrompidas por Zoom.  
+And perhaps a year and a half into the pandemic this question may seem redundant but there are still some innocent souls who have not been corrupted by Zoom.  
 
-Por supuesto, si vamos a hacer preguntas, tenemos que leer las respuestas. Antes de cada curso, docentes y ayudantes se reúnen para revisar estas respuestas y prepararse para poder brindar la mejor experiencia de aprendizaje a todas las personas. Si alguien respondió que no tiene mucha experiencia usando documentos de google, seguramente quién esté como ayudante va a estar más pendiente para responder a sus consultas. Si alguien se perdió alguna parte del curso por su conexión a internet, a la vuelta le compartiremos el link a la versión grabada para que pueda revisar después si quiere. 
+Of course, if we are going to ask questions, we have to read the answers. Before each course, teachers and assistants meet to review these answers and prepare to provide the best learning experience for everyone. If someone responded that they don't have a lot of experience using google docs, surely whoever is there as a helper is going to be more attentive to answer their queries. If anyone missed any part of the course because of their internet connection, we will share the link to the recorded version with you when we get back so you can review it later if you want. 
 
-Próxima slide
+Next slide
 ---
 
 ## Feedback after each workshop
@@ -407,13 +409,13 @@ Próxima slide
 
 ???
 
-Y como toda buena historia, nuestros cursos terminan con un eco de como empezaron: con otra encuesta. Pero esta vez es una encuesta de feedback que nos permite evaluar cosas buenas y malas del curso. Luego de la clase, docentes y ayudantes se toman 15 minutos para repasar los comentarios. 
+And like all good stories, our courses end with an echo of how they began: with another survey. But this time it is a feedback survey that allows us to evaluate good and bad things about the course. After the class, teachers and assistants take 15 minutes to review the comments. 
 
-Este feedback fue clave para que nuestros cursos evolucionaran. Nos aseguramos de mantener lo que a la mayoría les resultaba positivo e ir cambiando lo que les resultaba negativo. A partir de las respuestas también fuimos notando ciertas fallas en nuestra comunicación que le daban falsas expectativas a algunes asistentes.
+This feedback was key to the evolution of our courses. We made sure to keep what most of them found positive and change what they found negative. From the feedback we also noticed certain flaws in our communication that gave false expectations to some attendees.
 
-También notamos lo importante de no tomar todo el feedback demasiado en serio. Muchas veces recibimos comentarios de que un curso es demasiado largo, pero recibimos la misma cantaidad de comentarios diciendo que es muy corto, así que la duración probablemente no pueda ser mejor. 
+We also noticed how important it is not to take all feedback too seriously. We often get comments that a course is too long, but we get the same amount of comments saying it's too short, so the length probably couldn't be better. 
 
-Próxima slide
+Next slide
 ---
 
 class: chapter-slide
@@ -422,9 +424,9 @@ class: chapter-slide
 
 ???
 
-Aprendemos más y mejor cuando nos sentimos bienvenides.
+We learn more and better when we feel welcome.
 
-Próxima slide
+Next slide
 ---
 
 ## Building a friendly space
@@ -435,11 +437,11 @@ Próxima slide
 
 ???
 
-Por esta razón nos guiamos por un código de conducta y les pedimos a todas las personas que participan en MetaDocencia que lo respeten. Es una invitación a generar un espacio amigable donde todas las personas se sientan cómodas para participar, hacer preguntas, dar feedback a sus colegas y en definitiva, aprender. 
+For this reason we are guided by a code of conduct and we ask everyone who participates in MetaDocencia to respect it. It is an invitation to create a friendly space where everyone feels comfortable to participate, ask questions, give feedback to their colleagues and, ultimately, learn. 
 
-En Argentina y Latinoamérica no es común escuchar hablar de un código de conducta y si bien las instituciones educativas tienen sus reglamentos esta idea, para nosotros, vino de la mano de comunidades con R-Ladies. Por eso nos tomamos unos segundos al comienzo de cada taller para explicar de qué se trata, invitar a todas las personas a ayudarnos a generar un ambiente amigable y darles información sobre qué hacer en caso de que eso no ocurra por la razón que sea. 
+In Argentina and Latin America it is not common to hear about a code of conduct and although educational institutions have their regulations, this idea, for us, came from the hand of communities with R-Ladies. That's why we take a few seconds at the beginning of each workshop to explain what it is about, invite everyone to help us generate a friendly environment and give them information on what to do in case that doesn't happen for whatever reason. 
 
-Próxima slide
+Next slide
 ---
 
 ## Code of Conduct in community
@@ -451,15 +453,15 @@ Próxima slide
 
 ???
 
-Nuestro primer código de conducta fue una adaptación del Código de Conducta para comunidades Open Source de Contributor Covenant. Y si bien fue una de las primeras cosas que sumamos a nuestra web mucho antes de dar nuestro primer curso, estaba muy lejos de ser perfecto. 
+Our first code of conduct was an adaptation of Contributor Covenant's Code of Conduct for Open Source Communities. And while it was one of the first things we added to our website long before we ran our first course, it was far from perfect. 
 
-En la infancia de MetaDocencia, cuando el equipo se contaba con los dedos de una mano, el equipo coordinador era a su vez encargado de recibir cualquier comentario o reporte si el Código de Conducta no era respetado. Pero la realidad es que no teníamos un protocolo a seguir, solo algo de intuición y buena voluntad. 
+In the infancy of MetaDocencia, when the team could be counted on the fingers of one hand, the coordinating team was in turn in charge of receiving any comments or reports if the Code of Conduct was not respected. But the reality is that we had no protocol to follow, just some intuition and goodwill. 
 
-Pero qué respuestas podíamos dar? Cómo íbamos a manejar este tipo de situaciones? Qué pasaba recibíamos algún reporte y alguien del equipo estaba involucrado o había conflictos de intereses? Es decir, ¿quién vigila a los vigilantes?
+But what answers could we give? How were we going to handle such situations? What if we received a report and someone from the team was involved or there was a conflict of interest? In other words, who watches the watchers?
 
-Hace poco empezamos a responder a esas preguntas y reformular nuestro código de conducta en base a lo que en otras comunidades y en particular en useR!2021. Estamos definiendo un equipo que se haga responsable de este proceso formado por miembros del equipo de coordinación, colaboradores y miembros del equipo asesor para poder dar respuestas que garanticen la participación de todas las personas en un espacio seguro y amigable. 
+We have recently started to answer these questions and reformulate our code of conduct based on what is happening in other communities and in particular in useR!2021. We are defining a team that will be responsible for this process, consisting of members of the coordination team, collaborators and members of the advisory team, in order to provide answers that guarantee the participation of all people in a safe and friendly space. 
 
-Próxima slide
+Next slide
 ---
 
 class: chapter-slide
@@ -467,9 +469,9 @@ class: chapter-slide
 # Open materials for everyone
 
 ???
-El último principio que queríamos compartir con ustedes es este: materiales abiertos para todas las personas. 
+The last principle we wanted to share with you is this: open materials for all people. 
 
-Próxima slide
+Next slide
 ---
 ## Produce, share, reuse
 
@@ -482,13 +484,13 @@ Próxima slide
 
 ???
 
-Todo lo que hacemos tiene licencia abierta y al mismo tiempo, nos nutrimos de otros materiales abiertos. Otra de nuestras ideas centrales es garantizar el acceso a materiales de calidad compartiendo lo que hacemos de manera abierta y fomentando a otras personas para que también lo hagan.
+Everything we do is openly licensed and at the same time, we draw on other open materials. Another of our core ideas is to ensure access to quality materials by sharing what we do openly and encouraging others to do so too.
 
-Creemos que esto es aún más importante cuando los recursos con los que contamos son escasos. ¿Por qué no aprovechar los materiales generados y probados por un colega, dando crédito en el camino? En MetaDocencia buscamos generar esto, produciendo materiales, compartiendo otros y brindando un espacio en nuestra comunidad de slack para que las personas puedan compartir su experiencia al usar un material o una herramienta. 
+We believe this is even more important when the resources we have are scarce: why not take advantage of peer-generated and peer-tested materials, giving credit along the way? At MetaDocencia we seek to generate this, producing materials, sharing others and providing a space in our slack community for people to share their experience of using a material or tool. 
 
-Que todo lo que hacemos sea gratuito no es casualidad. Es parte de nuestro compromiso para disminuir y eliminar las barreras que existen entre las personas y los materiales y herramientas de calidad en América Latina. 
+The fact that everything we do is free is no coincidence. It is part of our commitment to reduce and eliminate the barriers that exist between people and quality materials and tools in Latin America. 
 
-Próxima slide
+Next slide
 ---
 
 ## MetaDocencia in a box
@@ -502,11 +504,11 @@ Próxima slide
 
 
 ???
-En alguna curva del camino nos dimos cuenta que nuestro valor agregado no son sólo recursos aislados sino una forma de trabajar. Con solo estamparle un loguito de creative commons a una presentación o un post en la web no alcanza para incentivar el reuso de nuestros materiales ni que ese reuso sea con el espíritu de MetaDocencia. 
+Somewhere along the way we realised that our added value is not just isolated resources but a way of working. Just stamping a creative commons logo on a presentation or a post on the web is not enough to encourage the reuse of our materials, nor is it enough to ensure that this reuse is in the spirit of MetaDocencia. 
 
-Por eso empezamos a trabajar en “MetaDocencia en una caja”, una guía integral que documenta nuestros materiales y nuestro funcionamiento para que cualquiera pueda replicar lo que hacemos y alimentándose de todo lo que aprendimos en el camino y sin cometer nuestros errores. 
+That's why we started working on "MetaDocencia in a box", a comprehensive guide that documents our materials and how we work so that anyone can replicate what we do and feed off everything we learned along the way and without making our mistakes. 
 
-Próxima slide
+Next slide
 ---
 ## What's next?
 
@@ -518,17 +520,17 @@ Próxima slide
 
 ???
 
-En esta historia, llegamos de alguna manera al presente. ¿Qué sigue a partir de ahora?
+In this story, we have somehow reached the present. Where do we go from here?
 
-El año pasado MetaDocencia funcionó 100% con trabajo voluntario pero sabemos que eso no es sostenible. Para 2021 obtuvimos financiamiento de la Code for Science and Society y la Gordon and Betty Moore Foundation para cubrir nuestras actividades, pero continuamos trabajando para encontrar nuevas fuentes de financiamiento que nos permitan continuar haciendo lo que hacemos en el futuro.
+Last year MetaDocencia ran 100% on voluntary work but we know that this is not sustainable. For 2021 we got funding from the Code for Science and Society and the Gordon and Betty Moore Foundation to cover our activities, but we continue to work to find new sources of funding that will allow us to continue doing what we do in the future.
 
-Seguiremos desarrollando MetaDocencia en caja, una guía para que cualquier persona pueda replicar o aprender de nuestra experiencia, por ahora en español pero muy pronto en portugues. 
+We will continue to develop MetaDocencia en caja, a guide so that anyone can replicate or learn from our experience, for now in Spanish but very soon in Portuguese. 
 
-Otro objetivo, muy importante para este año es medir y evaluar lo que estamos haciendo, esperamos pronto poder compartir resultados y muy seguramente lo que aprendimos en el proceso. 
+Another very important goal for this year is to measure and evaluate what we are doing, we hope soon to be able to share results and most likely what we learned in the process. 
 
-Y por supuesto, seguiremos aprendiendo en comunidad. Además de seguir dictando nuestros talleres que seguirán siendo gratuitos, comenzamos a diseñar encuentros cortos donde podamos discutir y aprender sobre alguna herramienta o recurso en particular. Que sea además un espacio de encuentro de la comunidad de docentes y que tal vez motive a otras personas a compartir su experiencia como MetaDocente. 
+And of course, we will continue learning in community. In addition to continuing our workshops, which will continue to be free of charge, we are starting to design short meetings where we can discuss and learn about a particular tool or resource. It will also be a space for the teaching community to meet and perhaps motivate other people to share their experience as MetaDocente. 
 
-Próxima slide
+Next slide
 ---
 
 # Fertile soil
@@ -539,11 +541,11 @@ Próxima slide
 
 ???
 
-Nada de lo que hicimos hubiera sido posible sin las comunidades preexistentes. Comunidades como R-Ladies, LatinR, Grupos de usaurios de R, The Carpentries y RStudio. De ellas no sólo tomamos conocimiento y materiales, sino también las amistades que nos juntaron para formar MetaDocencia en un principio. 
+None of what we did would have been possible without the pre-existing communities. Communities like R-Ladies, LatinR, R User Groups, The Carpentries and RStudio. From them we took not only knowledge and materials, but also the friendships that brought us together to form MetaDocencia in the beginning. 
 
-Tampoco hubiera sido posible continuar sosteniendo nuestras actividades y cursos gratuitos sin el apoyo del INTA y el financiamiento de laCode for Science and Society y la Gordon and Betty Moore Foundation.
+Nor would it have been possible to continue sustaining our activities and free courses without the support of INTA and funding from the Code for Science and Society and the Gordon and Betty Moore Foundation.
 
-Próxima slide
+Next slide
 ---
 class: end-slide
 
@@ -575,5 +577,5 @@ class: end-slide
 
 ???
 
-Muchísimas gracias por acompañarnos a enseñar sin perder a nadie en el camino. 
+Thank you so much for joining us to teach without losing anyone along the way. 
 
