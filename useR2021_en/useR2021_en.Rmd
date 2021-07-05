@@ -533,7 +533,7 @@ Próxima slide
 # Fertile soil
 
 .center[
-<img src="img/hexs.svg" align="center" width="700px" alt="Ilustración de un libro sobre una montaña mirando el horizonte hacia la izquierda."/>
+<img src="img/hexs.svg" align="center" width="700px" alt="Illustration of a book on a mountain looking at the horizon to the left."/>
 ]
 
 ???
