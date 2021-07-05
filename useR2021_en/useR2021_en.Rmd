@@ -1,5 +1,5 @@
 ---
-title: "Teaching to teach without losing anyone along the way "
+title: "Teaching to teach without losing anyone along the way"
 # subtitle: "MetaDocencia "
 author: | 
   <small>Paola Corrales, Elio Campitelli, Iván Poggio and MetaDocencia team <br/> 
@@ -42,7 +42,7 @@ Pero luego nos dimos cuenta que era una oportunidad para abrir una discusión m�
 Próxima slide
 
 ---
-#### El equipo
+#### The team
 
 
 .center[
@@ -60,7 +60,7 @@ Próxima slide
 
 ## What did we do until today?
 
-* We develop and adapt 4 workshops 
+* We developed and adapted 4 workshops 
 
     * `r emo::ji("apple")` Introduction to ABC to teach online
     
@@ -102,9 +102,9 @@ Próxima slide
 ## Why MetaDocencia?
 
 
-* El inglés puede ser una barrera
-* Una traducción a veces no es suficiente
-* Construir una comunidad regional
+* English can be a barrier
+* A translation sometimes is not enough
+* Build a local community
 
 .right[
 
@@ -201,9 +201,7 @@ Próxima slide
 ---
 
 
-
-## ¿Qué y cómo preguntábamos sobre accesibilidad?
-
+## What and how did we ask about accesibility?
 
 .center[
 <img src="img/preguntas-viejas.png" alt ="Screenshot of a multiple-choice google form question. In this screenshot the text says the following: Question: Do you have any disability or impairment that affects the way you study or work? Do you need special requirements in your learning or work environment? Select all that apply. Answers: Visual impairment . Hearing impairment. Mobility impairment. Learning disability. Mental health disorder. Prefer not to say. I have no disability or impairment. Others:." height=450px />
@@ -218,8 +216,8 @@ Todas estas preguntas (que eran muchas) las armamos en base a la intuición y a 
 Próxima slide
 ---
 
+## What and how do we ask about accesibility now?
 
-## ¿Qué y cómo preguntamos sobre accesibilidad ahora?
 
 .center[
 <img src="img/preguntas-nuevas-1.png" alt ="Screenshot of a multiple-choice google form question. In this screenshot, the text says the following: Question: Do you have any of the following difficulties to participate in workshops remotely? Check all that apply. Answers: I have trouble seeing, even with glasses or contact lenses. I have difficulty hearing, even with a hearing aid. I have mobility difficulties that affect my interaction with electronic devices such as cell phones or computers. I have difficulty staying in front of a screen for more than 50 minutes. I have difficulty understanding or remembering. I have difficulty concentrating. I have difficulty communicating. I do not have any of these difficulties. I prefer not to say. Others:." height="500" />
@@ -241,8 +239,7 @@ Somos conscientes que estas preguntas pueden ser información sensible por lo qu
 Próxima slide
 ---
 
-
-## ¿Cómo podemos facilitar tu participación?
+## How can we facilitate your participation?
 
 .center[
 <img src="img/preguntas-nuevas-2.png" alt ="Screenshot of a multiple-choice google form question. In this screenshot, the text says the following: Question: If you marked that you have any difficulties, how can we facilitate your participation? Check all that apply. Answers: I have no difficulty. With a screen reader. With high contrast materials and large print. Using voice communication. Speaking clearly, slowly, with good audio quality. With subtitles. Using sign language. Using written communication. With frequent pauses away from the screen. I prefer not to say. Others:." height = "500" />
@@ -258,8 +255,7 @@ Además armamos un sistema mediante el cual si alguien marca alguna de las opcio
 Próxima slide
 ---
 
-
-## ¿Cómo podemos facilitar tu participación?
+##  How can we facilitate your participation?
 
 .center[
 <img src="img/estadisticas-facilitacion.png" height=80% alt="Grafico de barras mostrando la cantidad de respuestas a ¿Cómo podemos facilitar tu participación? Con pausas frecuentes: 24 personas, Hablando claro pausado: 20 personas, Usando comunicación por escrito: 9 personas, Con materiales con alto contraste y letra grande: 8, Usando comunicación por voz: 7 personas, Con subtitulado: 6 personas y Otros: 9 personas."/>
@@ -288,9 +284,7 @@ Letra grande, nunca nadie se quejó de que la letra era demasiado grande.
 Próxima slide
 ---
 
-## Good contrast
-
-
+## High contrast
 
 .center[![Two-panel image. Above, Geordi La Forge saying no to a low contrast color pair. Below, Geordi La Forge saying yes to a pair of high contrast colors.](img/contraste.jpg)]
 
@@ -302,7 +296,7 @@ Al chequear el contraste de algunas de nuestras presentaciones nos dimos cuenta 
 Próxima slide
 ---
 
-## Avoid animations and ornate fonts, it doesn't matter if it looks cute if it's not accessible
+## Avoid animations and fancy fonts, it doesn't matter if it looks cute if it's not accessible
 
 ???
 Evitar animaciones y fuentes de adorno, no importa que se vea lindo si no es accesible. 
@@ -337,7 +331,7 @@ Pausas frecuentes, porque ni docentes ni estudiantes puede estar concentrados et
 Próxima slide
 ---
 
-## Everyone participates in the way they prefer
+## Everyone participates in their own way
 
 .center[
 <img src="img/medios-participacion.svg" height=500px alt = "Illustration of a book surrounded by different resources: texts, graphics, audio, video, etc."/>
@@ -350,7 +344,7 @@ Cada quien participa de la manera que prefiera, algunas personas querrán usar e
 Próxima slide
 ---
 
-## What we lack
+## What's still missing
 <br/>
 <br/>
 <br/>   
@@ -388,7 +382,7 @@ Otra de las ideas que nos acompaña desde el principio es:
 
 Próxima slide
 ---
-## Survey before you start
+## Surveys before
 
 .center[
 <img src="img/encuesta.svg" height=400px alt = "Illustration of two books interviewing another book."/>
@@ -405,7 +399,7 @@ Por supuesto, si vamos a hacer preguntas, tenemos que leer las respuestas. Antes
 Próxima slide
 ---
 
-## Feedback after each workshop/course
+## Feedback after each workshop
 
 .center[
 <img src="img/feedback.svg" height=400px alt = "Illustration of two books. One holding a thumbs down sign and one holding a thumbs up sign."/>
@@ -424,7 +418,7 @@ Próxima slide
 
 class: chapter-slide
 
-# We learn more and better when we feel welcome
+# We learn more and better when we feel welcomed
 
 ???
 
@@ -448,12 +442,10 @@ En Argentina y Latinoamérica no es común escuchar hablar de un código de cond
 Próxima slide
 ---
 
-## Community Code of Conduct
+## Code of Conduct in community
 
 .center[
-<img src="img/la-gorra.svg" align="center" height="400px" alt="Illustration of a book dressed as a policeman next to a traffic light.
-
-"/>
+<img src="img/la-gorra.svg" align="center" height="400px" alt="Illustration of a book dressed as a policeman next to a traffic light."/>
 ]
 
 
@@ -499,7 +491,7 @@ Que todo lo que hacemos sea gratuito no es casualidad. Es parte de nuestro compr
 Próxima slide
 ---
 
-## Metadocencia in a box
+## MetaDocencia in a box
 
 .center[
 <img
@@ -555,8 +547,8 @@ Próxima slide
 ---
 class: end-slide
 
-# Gracias!
-## Enseñando a enseñar sin perder a nadie en el camino
+# Thank you!
+## Teaching to teach without losing anyone along the way
 
 <img src="img/hex.png" align="right" width=200px alt="hex logo de metadocencia"/>
 </br>
@@ -578,7 +570,7 @@ class: end-slide
 `r icons::icon_style(icons::fontawesome$solid$globe, fill = "#485a6c")` metadocencia.org 
 </br>
 </br>
-.right[Las ilustraciones son de [Manfred Steger](https://pixabay.com/es/users/manfredsteger-1848497/)]
+.right[Illustrations by [Manfred Steger](https://pixabay.com/es/users/manfredsteger-1848497/)]
 
 
 ???
