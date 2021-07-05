@@ -16,6 +16,35 @@
 }
 
 
+.end-slide h1 {
+  position: absolute;
+  top: 35%;
+  left: 7%;
+  text-align: left;
+  color: #454647 ;
+}
+
+.end-slide h2 {
+  position: absolute;
+  top: 50%;
+  left: 8%;
+  text-align: left;
+  color: #CC393C ;
+}
+
+.end-slide {
+  background-image: url("https://www.r-project.org/conferences/useR.png"), linear-gradient(to bottom, #FFFFFF 85%, #FFFFFF 95%) ;
+  background-position: 10px 590px , center;
+  background-size: 0px, 100% 100%, cover ;
+}
+
+.end-slide .remark-slide-number {
+  display: none;
+  color: #FFFFFF;
+  opacity: 1;
+}
+
+
 .chapter-slide h1 {
   position: absolute;
   top: 55%;
