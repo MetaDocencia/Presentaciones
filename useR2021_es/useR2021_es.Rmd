@@ -21,7 +21,7 @@ output:
 </br>
 </br>
 
-.center[### "Es una comunidad inclusiva y colaborativa que busca que mejorar la educación potenciando docentes de países menos favorecidos"]
+.center[### "Es una comunidad inclusiva y colaborativa que busca mejorar la educación potenciando docentes de países menos favorecidos"]
   
 <img src="img/hex.png" align="right" width=200px alt="hex logo de metadocencia"/>
 
@@ -360,7 +360,9 @@ Próxima slide
 ---
 ## Iterar para mejorar
 
-(algunan imagen de zoom con subtítulos)
+.center[
+<img src="img/subtitulos-zoom.png" alt="Caputra de pantalla de una reunión de zoom con Paola, Elio, Iván y Mariela con un subtítulo que dice 'I mean getting the gospel and plan is exciting that is a month.'"/>
+]
 
 ???
 Sabemos que nos faltan algunas cosas todavía. Por ejemplo, si bien probamos y y estamos listes para usar subtítulos en nuestras clases, éstos no son transcripciones manuales sino que son generadas automáticamente con un servicio gratuito, que en una sala de zoom sólo funciona bien para subtitular a la persona que está dando a clase pero no para el resto de los participantes. Definitivamente necesitamos prepararnos más para hablar pausado y modular lo que decimos para tanto los subtítulos automáticos como personas con dificultades auditivas nos puedan entender bien.
